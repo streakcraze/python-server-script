@@ -1,0 +1,2123 @@
+DEBUG::12/05/2023 11:25:11PM::[STARTING] server is starting ...
+DEBUG::12/05/2023 11:25:11PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/05/2023 11:25:44PM::[CLOSED] server is closed
+DEBUG::12/13/2023 01:23:47PM::[STARTING] server is starting ...
+DEBUG::12/13/2023 01:23:47PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/13/2023 01:24:00PM::[NEW CONNECTION] ('127.0.0.1', 36262) connected
+DEBUG::12/13/2023 01:24:00PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/13/2023 01:24:07PM::[QUERY] requesting_address: ('127.0.0.1', 36262), query_string: ;, query_result: STRING EXISTS
+, execution_time: 0.5607776641845703s
+DEBUG::12/13/2023 01:26:33PM::[QUERY] requesting_address: ('127.0.0.1', 36262), query_string: blah, query_result: STRING NOT FOUND
+, execution_time: 0.6179261207580566s
+DEBUG::12/13/2023 01:26:51PM::[QUERY] requesting_address: ('127.0.0.1', 36262), query_string: 3;0;1;28;0;7;5;0;, query_result: STRING EXISTS
+, execution_time: 0.034442901611328125s
+DEBUG::12/13/2023 01:26:56PM::[QUERY] requesting_address: ('127.0.0.1', 36262), query_string: 3;0;1;28;0;7;5;0, query_result: STRING NOT FOUND
+, execution_time: 0.19496631622314453s
+DEBUG::12/13/2023 01:27:02PM::[QUERY] requesting_address: ('127.0.0.1', 36262), query_string: ;, query_result: STRING EXISTS
+, execution_time: 0.11102819442749023s
+DEBUG::12/13/2023 01:27:05PM::[CLOSED CONNECTION] ('127.0.0.1', 36262) disconnected
+DEBUG::12/13/2023 01:27:43PM::[CLOSED] server is closed
+DEBUG::12/13/2023 04:44:18PM::[STARTING] server is starting ...
+DEBUG::12/13/2023 04:44:19PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/13/2023 04:45:01PM::[NEW CONNECTION] ('127.0.0.1', 36714) connected
+DEBUG::12/13/2023 04:45:01PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/13/2023 04:45:11PM::[QUERY] requesting_address: ('127.0.0.1', 36714), query_string: ;, query_result: STRING EXISTS
+, execution_time: 0.38381242752075195s
+DEBUG::12/13/2023 04:45:36PM::[QUERY] requesting_address: ('127.0.0.1', 36714), query_string: 1, query_result: STRING NOT FOUND
+, execution_time: 0.41902947425842285s
+DEBUG::12/13/2023 04:45:42PM::[QUERY] requesting_address: ('127.0.0.1', 36714), query_string: ., query_result: STRING NOT FOUND
+, execution_time: 0.2312178611755371s
+DEBUG::12/13/2023 04:47:11PM::[QUERY] requesting_address: ('127.0.0.1', 36714), query_string: ;, query_result: STRING EXISTS
+, execution_time: 0.05235934257507324s
+DEBUG::12/13/2023 04:47:15PM::[CLOSED CONNECTION] ('127.0.0.1', 36714) disconnected
+DEBUG::12/13/2023 04:47:21PM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:07:53AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:07:53AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:08:26AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:08:26AM::[NEW CONNECTION] ('127.0.0.1', 44504) connected
+DEBUG::12/14/2023 09:10:43AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2305135726928711s
+DEBUG::12/14/2023 09:10:57AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.2842576503753662s
+DEBUG::12/14/2023 09:11:08AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3265872001647949s
+DEBUG::12/14/2023 09:11:16AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.33779001235961914s
+DEBUG::12/14/2023 09:11:49AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.37362074851989746s
+DEBUG::12/14/2023 09:12:00AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1612093448638916s
+DEBUG::12/14/2023 09:12:22AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2207953929901123s
+DEBUG::12/14/2023 09:12:35AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.27721190452575684s
+DEBUG::12/14/2023 09:13:01AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20793867111206055s
+DEBUG::12/14/2023 09:13:10AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.19896435737609863s
+DEBUG::12/14/2023 09:13:18AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17807292938232422s
+DEBUG::12/14/2023 09:13:29AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16524219512939453s
+DEBUG::12/14/2023 09:14:02AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.45088624954223633s
+DEBUG::12/14/2023 09:14:10AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.19084811210632324s
+DEBUG::12/14/2023 09:14:16AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.19653058052062988s
+DEBUG::12/14/2023 09:14:24AM::[QUERY] requesting_address: ('127.0.0.1', 44504), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1857893466949463s
+DEBUG::12/14/2023 09:14:28AM::[CLOSED CONNECTION] ('127.0.0.1', 44504) disconnected
+DEBUG::12/14/2023 09:14:34AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:14:51AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:14:51AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:14:56AM::[NEW CONNECTION] ('127.0.0.1', 44508) connected
+DEBUG::12/14/2023 09:14:56AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:15:00AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20154404640197754s
+DEBUG::12/14/2023 09:15:05AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.2616298198699951s
+DEBUG::12/14/2023 09:15:10AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1823866367340088s
+DEBUG::12/14/2023 09:15:14AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1739048957824707s
+DEBUG::12/14/2023 09:15:22AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1636946201324463s
+DEBUG::12/14/2023 09:15:26AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15506601333618164s
+DEBUG::12/14/2023 09:24:33AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.21835064888000488s
+DEBUG::12/14/2023 09:24:41AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 1.3329713344573975s
+DEBUG::12/14/2023 09:24:48AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18253421783447266s
+DEBUG::12/14/2023 09:24:54AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.23527812957763672s
+DEBUG::12/14/2023 09:25:00AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.24545907974243164s
+DEBUG::12/14/2023 09:25:02AM::[QUERY] requesting_address: ('127.0.0.1', 44508), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.23608088493347168s
+DEBUG::12/14/2023 09:25:04AM::[CLOSED CONNECTION] ('127.0.0.1', 44508) disconnected
+DEBUG::12/14/2023 09:25:08AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:25:25AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:25:25AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:25:29AM::[NEW CONNECTION] ('127.0.0.1', 44510) connected
+DEBUG::12/14/2023 09:25:29AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:25:33AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010695457458496094s
+DEBUG::12/14/2023 09:25:39AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.0818033218383789s
+DEBUG::12/14/2023 09:25:45AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0013933181762695312s
+DEBUG::12/14/2023 09:25:49AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.026140213012695312s
+DEBUG::12/14/2023 09:25:55AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0012450218200683594s
+DEBUG::12/14/2023 09:25:59AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.02078866958618164s
+DEBUG::12/14/2023 09:26:15AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0015056133270263672s
+DEBUG::12/14/2023 09:26:18AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.014470338821411133s
+DEBUG::12/14/2023 09:31:47AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.003363370895385742s
+DEBUG::12/14/2023 09:31:54AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.0502011775970459s
+DEBUG::12/14/2023 09:31:59AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0011131763458251953s
+DEBUG::12/14/2023 09:32:02AM::[QUERY] requesting_address: ('127.0.0.1', 44510), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.01984095573425293s
+DEBUG::12/14/2023 09:32:05AM::[CLOSED CONNECTION] ('127.0.0.1', 44510) disconnected
+DEBUG::12/14/2023 09:32:09AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:32:23AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:32:23AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:32:27AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:32:27AM::[NEW CONNECTION] ('127.0.0.1', 44512) connected
+DEBUG::12/14/2023 09:32:31AM::[QUERY] requesting_address: ('127.0.0.1', 44512), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3616611957550049s
+DEBUG::12/14/2023 09:32:41AM::[QUERY] requesting_address: ('127.0.0.1', 44512), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.28007984161376953s
+DEBUG::12/14/2023 09:32:47AM::[QUERY] requesting_address: ('127.0.0.1', 44512), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2560744285583496s
+DEBUG::12/14/2023 09:32:54AM::[QUERY] requesting_address: ('127.0.0.1', 44512), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.332103967666626s
+DEBUG::12/14/2023 09:33:00AM::[QUERY] requesting_address: ('127.0.0.1', 44512), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.48968029022216797s
+DEBUG::12/14/2023 09:33:05AM::[QUERY] requesting_address: ('127.0.0.1', 44512), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.27876710891723633s
+DEBUG::12/14/2023 09:33:56AM::[CLOSED CONNECTION] ('127.0.0.1', 44512) disconnected
+DEBUG::12/14/2023 09:34:04AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:34:09AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:34:09AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:34:12AM::[NEW CONNECTION] ('127.0.0.1', 44514) connected
+DEBUG::12/14/2023 09:34:12AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:34:16AM::[QUERY] requesting_address: ('127.0.0.1', 44514), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.30728745460510254s
+DEBUG::12/14/2023 09:34:19AM::[QUERY] requesting_address: ('127.0.0.1', 44514), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.29392361640930176s
+DEBUG::12/14/2023 09:34:22AM::[QUERY] requesting_address: ('127.0.0.1', 44514), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3388698101043701s
+DEBUG::12/14/2023 09:34:24AM::[QUERY] requesting_address: ('127.0.0.1', 44514), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.2482585906982422s
+DEBUG::12/14/2023 09:34:25AM::[QUERY] requesting_address: ('127.0.0.1', 44514), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2104640007019043s
+DEBUG::12/14/2023 09:34:27AM::[QUERY] requesting_address: ('127.0.0.1', 44514), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.2715413570404053s
+DEBUG::12/14/2023 09:38:59AM::[CLOSED CONNECTION] ('127.0.0.1', 44514) disconnected
+DEBUG::12/14/2023 09:39:07AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:39:20AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:39:20AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:39:24AM::[NEW CONNECTION] ('127.0.0.1', 44520) connected
+DEBUG::12/14/2023 09:39:24AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:40:12AM::[QUERY] requesting_address: ('127.0.0.1', 44520), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0001125335693359375s
+DEBUG::12/14/2023 09:40:21AM::[QUERY] requesting_address: ('127.0.0.1', 44520), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.0001850128173828125s
+DEBUG::12/14/2023 09:40:26AM::[QUERY] requesting_address: ('127.0.0.1', 44520), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0002193450927734375s
+DEBUG::12/14/2023 09:40:31AM::[QUERY] requesting_address: ('127.0.0.1', 44520), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.00024771690368652344s
+DEBUG::12/14/2023 09:40:32AM::[QUERY] requesting_address: ('127.0.0.1', 44520), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.00018024444580078125s
+DEBUG::12/14/2023 09:40:34AM::[QUERY] requesting_address: ('127.0.0.1', 44520), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.00024127960205078125s
+DEBUG::12/14/2023 09:45:14AM::[CLOSED CONNECTION] ('127.0.0.1', 44520) disconnected
+DEBUG::12/14/2023 09:45:18AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:45:42AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:45:42AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:45:47AM::[NEW CONNECTION] ('127.0.0.1', 44522) connected
+DEBUG::12/14/2023 09:45:47AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:46:04AM::[QUERY] requesting_address: ('127.0.0.1', 44522), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.270327091217041s
+DEBUG::12/14/2023 09:46:08AM::[QUERY] requesting_address: ('127.0.0.1', 44522), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.2536506652832031s
+DEBUG::12/14/2023 09:46:10AM::[QUERY] requesting_address: ('127.0.0.1', 44522), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.23271942138671875s
+DEBUG::12/14/2023 09:46:12AM::[QUERY] requesting_address: ('127.0.0.1', 44522), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.26157689094543457s
+DEBUG::12/14/2023 09:46:13AM::[QUERY] requesting_address: ('127.0.0.1', 44522), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.22895526885986328s
+DEBUG::12/14/2023 09:46:15AM::[QUERY] requesting_address: ('127.0.0.1', 44522), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.2829761505126953s
+DEBUG::12/14/2023 09:50:27AM::[CLOSED CONNECTION] ('127.0.0.1', 44522) disconnected
+DEBUG::12/14/2023 09:50:41AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:51:36AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:51:36AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:51:40AM::[NEW CONNECTION] ('127.0.0.1', 44524) connected
+DEBUG::12/14/2023 09:51:40AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:51:43AM::[QUERY] requesting_address: ('127.0.0.1', 44524), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0001697540283203125s
+DEBUG::12/14/2023 09:51:44AM::[QUERY] requesting_address: ('127.0.0.1', 44524), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.00014400482177734375s
+DEBUG::12/14/2023 09:51:46AM::[QUERY] requesting_address: ('127.0.0.1', 44524), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.00020503997802734375s
+DEBUG::12/14/2023 09:51:47AM::[QUERY] requesting_address: ('127.0.0.1', 44524), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.00015234947204589844s
+DEBUG::12/14/2023 09:51:48AM::[QUERY] requesting_address: ('127.0.0.1', 44524), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0002799034118652344s
+DEBUG::12/14/2023 09:51:50AM::[QUERY] requesting_address: ('127.0.0.1', 44524), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.0001742839813232422s
+DEBUG::12/14/2023 09:56:25AM::[CLOSED CONNECTION] ('127.0.0.1', 44524) disconnected
+DEBUG::12/14/2023 09:56:31AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:57:52AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:57:52AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:57:56AM::[NEW CONNECTION] ('127.0.0.1', 44526) connected
+DEBUG::12/14/2023 09:57:56AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:58:00AM::[QUERY] requesting_address: ('127.0.0.1', 44526), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19797015190124512s
+DEBUG::12/14/2023 09:58:01AM::[QUERY] requesting_address: ('127.0.0.1', 44526), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.18186235427856445s
+DEBUG::12/14/2023 09:58:03AM::[QUERY] requesting_address: ('127.0.0.1', 44526), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.23784899711608887s
+DEBUG::12/14/2023 09:58:04AM::[QUERY] requesting_address: ('127.0.0.1', 44526), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.13187026977539062s
+DEBUG::12/14/2023 09:58:07AM::[QUERY] requesting_address: ('127.0.0.1', 44526), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1473095417022705s
+DEBUG::12/14/2023 09:58:09AM::[QUERY] requesting_address: ('127.0.0.1', 44526), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.14555644989013672s
+DEBUG::12/14/2023 09:58:36AM::[CLOSED CONNECTION] ('127.0.0.1', 44526) disconnected
+DEBUG::12/14/2023 09:58:43AM::[CLOSED] server is closed
+DEBUG::12/14/2023 09:58:47AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 09:58:47AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 09:58:51AM::[NEW CONNECTION] ('127.0.0.1', 44528) connected
+DEBUG::12/14/2023 09:58:51AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 09:58:53AM::[QUERY] requesting_address: ('127.0.0.1', 44528), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13463306427001953s
+DEBUG::12/14/2023 09:58:55AM::[QUERY] requesting_address: ('127.0.0.1', 44528), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.18846583366394043s
+DEBUG::12/14/2023 09:58:56AM::[QUERY] requesting_address: ('127.0.0.1', 44528), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.12235665321350098s
+DEBUG::12/14/2023 09:58:58AM::[QUERY] requesting_address: ('127.0.0.1', 44528), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.13608956336975098s
+DEBUG::12/14/2023 09:59:00AM::[QUERY] requesting_address: ('127.0.0.1', 44528), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14200568199157715s
+DEBUG::12/14/2023 09:59:03AM::[QUERY] requesting_address: ('127.0.0.1', 44528), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.12680339813232422s
+DEBUG::12/14/2023 10:03:27AM::[CLOSED CONNECTION] ('127.0.0.1', 44528) disconnected
+DEBUG::12/14/2023 10:03:38AM::[CLOSED] server is closed
+DEBUG::12/14/2023 10:03:51AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 10:03:51AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 10:03:55AM::[NEW CONNECTION] ('127.0.0.1', 44530) connected
+DEBUG::12/14/2023 10:03:55AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 10:03:58AM::[QUERY] requesting_address: ('127.0.0.1', 44530), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.001085519790649414s
+DEBUG::12/14/2023 10:04:00AM::[QUERY] requesting_address: ('127.0.0.1', 44530), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.02220010757446289s
+DEBUG::12/14/2023 10:04:01AM::[QUERY] requesting_address: ('127.0.0.1', 44530), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0011429786682128906s
+DEBUG::12/14/2023 10:04:03AM::[QUERY] requesting_address: ('127.0.0.1', 44530), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.020813465118408203s
+DEBUG::12/14/2023 10:04:05AM::[QUERY] requesting_address: ('127.0.0.1', 44530), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0012359619140625s
+DEBUG::12/14/2023 10:04:07AM::[QUERY] requesting_address: ('127.0.0.1', 44530), query_string: 14;0;6;26;0;13;3, query_result: STRING NOT FOUND
+, execution_time: 0.023252248764038086s
+DEBUG::12/14/2023 10:11:56AM::[CLOSED CONNECTION] ('127.0.0.1', 44530) disconnected
+DEBUG::12/14/2023 10:12:04AM::[CLOSED] server is closed
+DEBUG::12/14/2023 10:12:23AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 10:12:23AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 10:12:28AM::[NEW CONNECTION] ('127.0.0.1', 44536) connected
+DEBUG::12/14/2023 10:12:28AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 10:12:32AM::[QUERY] requesting_address: ('127.0.0.1', 44536), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3813643455505371s
+DEBUG::12/14/2023 10:12:35AM::[QUERY] requesting_address: ('127.0.0.1', 44536), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.5187456607818604s
+DEBUG::12/14/2023 10:12:38AM::[QUERY] requesting_address: ('127.0.0.1', 44536), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.6421148777008057s
+DEBUG::12/14/2023 10:12:48AM::[QUERY] requesting_address: ('127.0.0.1', 44536), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.36864423751831055s
+DEBUG::12/14/2023 10:12:51AM::[QUERY] requesting_address: ('127.0.0.1', 44536), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3314528465270996s
+DEBUG::12/14/2023 10:12:54AM::[QUERY] requesting_address: ('127.0.0.1', 44536), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.5588712692260742s
+DEBUG::12/14/2023 10:12:58AM::[CLOSED CONNECTION] ('127.0.0.1', 44536) disconnected
+DEBUG::12/14/2023 10:13:05AM::[CLOSED] server is closed
+DEBUG::12/14/2023 10:13:25AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 10:13:25AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 10:13:30AM::[NEW CONNECTION] ('127.0.0.1', 44538) connected
+DEBUG::12/14/2023 10:13:30AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 10:13:33AM::[QUERY] requesting_address: ('127.0.0.1', 44538), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.37994384765625s
+DEBUG::12/14/2023 10:13:36AM::[QUERY] requesting_address: ('127.0.0.1', 44538), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.4114973545074463s
+DEBUG::12/14/2023 10:13:41AM::[QUERY] requesting_address: ('127.0.0.1', 44538), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.26822328567504883s
+DEBUG::12/14/2023 10:13:44AM::[QUERY] requesting_address: ('127.0.0.1', 44538), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.6248733997344971s
+DEBUG::12/14/2023 10:13:47AM::[QUERY] requesting_address: ('127.0.0.1', 44538), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.5115633010864258s
+DEBUG::12/14/2023 10:13:51AM::[QUERY] requesting_address: ('127.0.0.1', 44538), query_string: 14;0;6;26;0;13;, query_result: STRING NOT FOUND
+, execution_time: 0.31876254081726074s
+DEBUG::12/14/2023 10:14:33AM::[CLOSED CONNECTION] ('127.0.0.1', 44538) disconnected
+DEBUG::12/14/2023 10:14:39AM::[CLOSED] server is closed
+DEBUG::12/14/2023 10:14:45AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 10:14:45AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 10:14:49AM::[NEW CONNECTION] ('127.0.0.1', 44540) connected
+DEBUG::12/14/2023 10:14:49AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 10:14:52AM::[QUERY] requesting_address: ('127.0.0.1', 44540), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.26680684089660645s
+DEBUG::12/14/2023 10:14:54AM::[QUERY] requesting_address: ('127.0.0.1', 44540), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.27664661407470703s
+DEBUG::12/14/2023 10:14:55AM::[QUERY] requesting_address: ('127.0.0.1', 44540), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.41673803329467773s
+DEBUG::12/14/2023 10:14:58AM::[QUERY] requesting_address: ('127.0.0.1', 44540), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.2694277763366699s
+DEBUG::12/14/2023 10:15:00AM::[QUERY] requesting_address: ('127.0.0.1', 44540), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.28842616081237793s
+DEBUG::12/14/2023 10:15:05AM::[QUERY] requesting_address: ('127.0.0.1', 44540), query_string: 14;0;6;26;0;13;, query_result: STRING NOT FOUND
+, execution_time: 0.2616238594055176s
+DEBUG::12/14/2023 10:16:05AM::[CLOSED CONNECTION] ('127.0.0.1', 44540) disconnected
+DEBUG::12/14/2023 10:16:11AM::[CLOSED] server is closed
+DEBUG::12/14/2023 10:16:16AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 10:16:16AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 10:16:19AM::[NEW CONNECTION] ('127.0.0.1', 44542) connected
+DEBUG::12/14/2023 10:16:19AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 10:16:23AM::[QUERY] requesting_address: ('127.0.0.1', 44542), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.24883484840393066s
+DEBUG::12/14/2023 10:16:26AM::[QUERY] requesting_address: ('127.0.0.1', 44542), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.33217453956604004s
+DEBUG::12/14/2023 10:16:28AM::[QUERY] requesting_address: ('127.0.0.1', 44542), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2683696746826172s
+DEBUG::12/14/2023 10:16:31AM::[QUERY] requesting_address: ('127.0.0.1', 44542), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.2982769012451172s
+DEBUG::12/14/2023 10:16:33AM::[QUERY] requesting_address: ('127.0.0.1', 44542), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2483677864074707s
+DEBUG::12/14/2023 10:16:36AM::[QUERY] requesting_address: ('127.0.0.1', 44542), query_string: 14;0;6;26;0;13;, query_result: STRING NOT FOUND
+, execution_time: 0.2757077217102051s
+DEBUG::12/14/2023 10:21:43AM::[CLOSED CONNECTION] ('127.0.0.1', 44542) disconnected
+DEBUG::12/14/2023 10:21:51AM::[CLOSED] server is closed
+DEBUG::12/14/2023 10:22:03AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 10:22:03AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 10:22:08AM::[NEW CONNECTION] ('127.0.0.1', 44544) connected
+DEBUG::12/14/2023 10:22:09AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 10:22:12AM::[QUERY] requesting_address: ('127.0.0.1', 44544), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0014972686767578125s
+DEBUG::12/14/2023 10:22:13AM::[QUERY] requesting_address: ('127.0.0.1', 44544), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.011693239212036133s
+DEBUG::12/14/2023 10:22:15AM::[QUERY] requesting_address: ('127.0.0.1', 44544), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0014681816101074219s
+DEBUG::12/14/2023 10:22:17AM::[QUERY] requesting_address: ('127.0.0.1', 44544), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.03102874755859375s
+DEBUG::12/14/2023 10:22:18AM::[QUERY] requesting_address: ('127.0.0.1', 44544), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0015292167663574219s
+DEBUG::12/14/2023 10:22:21AM::[QUERY] requesting_address: ('127.0.0.1', 44544), query_string: 14;0;6;26;0;13;, query_result: STRING NOT FOUND
+, execution_time: 0.022830486297607422s
+DEBUG::12/14/2023 10:23:09AM::[CLOSED CONNECTION] ('127.0.0.1', 44544) disconnected
+DEBUG::12/14/2023 10:23:13AM::[CLOSED] server is closed
+DEBUG::12/14/2023 10:23:23AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 10:23:23AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 10:23:27AM::[NEW CONNECTION] ('127.0.0.1', 44546) connected
+DEBUG::12/14/2023 10:23:27AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 10:23:29AM::[QUERY] requesting_address: ('127.0.0.1', 44546), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0011909008026123047s
+DEBUG::12/14/2023 10:23:31AM::[QUERY] requesting_address: ('127.0.0.1', 44546), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.0324554443359375s
+DEBUG::12/14/2023 10:23:33AM::[QUERY] requesting_address: ('127.0.0.1', 44546), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.001575469970703125s
+DEBUG::12/14/2023 10:23:35AM::[QUERY] requesting_address: ('127.0.0.1', 44546), query_string: 14;0;6;26;0;13;3, query_result: STRING NOT FOUND
+, execution_time: 0.018586397171020508s
+DEBUG::12/14/2023 10:23:36AM::[QUERY] requesting_address: ('127.0.0.1', 44546), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010700225830078125s
+DEBUG::12/14/2023 10:23:38AM::[QUERY] requesting_address: ('127.0.0.1', 44546), query_string: 14;0;6;2, query_result: STRING NOT FOUND
+, execution_time: 0.01906728744506836s
+DEBUG::12/14/2023 10:24:00AM::[CLOSED CONNECTION] ('127.0.0.1', 44546) disconnected
+DEBUG::12/14/2023 10:24:06AM::[CLOSED] server is closed
+DEBUG::12/14/2023 10:24:09AM::[STARTING] server is starting ...
+DEBUG::12/14/2023 10:24:09AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 10:24:13AM::[NEW CONNECTION] ('127.0.0.1', 44548) connected
+DEBUG::12/14/2023 10:24:13AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 10:24:15AM::[QUERY] requesting_address: ('127.0.0.1', 44548), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.00101470947265625s
+DEBUG::12/14/2023 10:24:16AM::[QUERY] requesting_address: ('127.0.0.1', 44548), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.011288166046142578s
+DEBUG::12/14/2023 10:24:17AM::[QUERY] requesting_address: ('127.0.0.1', 44548), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010781288146972656s
+DEBUG::12/14/2023 10:24:20AM::[QUERY] requesting_address: ('127.0.0.1', 44548), query_string: 14;0;6;26;0;13, query_result: STRING NOT FOUND
+, execution_time: 0.027225017547607422s
+DEBUG::12/14/2023 10:24:21AM::[QUERY] requesting_address: ('127.0.0.1', 44548), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010678768157958984s
+DEBUG::12/14/2023 10:24:24AM::[QUERY] requesting_address: ('127.0.0.1', 44548), query_string: 14;0;6;26, query_result: STRING NOT FOUND
+, execution_time: 0.028971195220947266s
+DEBUG::12/14/2023 11:36:34AM::[CLOSED CONNECTION] ('127.0.0.1', 44548) disconnected
+DEBUG::12/14/2023 11:41:27AM::[CLOSED] server is closed
+DEBUG::12/14/2023 12:58:02PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 12:58:03PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 12:58:33PM::[NEW CONNECTION] ('127.0.0.1', 57666) connected
+DEBUG::12/14/2023 12:58:33PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 12:58:39PM::[QUERY] requesting_address: ('127.0.0.1', 57666), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.25308847427368164s
+DEBUG::12/14/2023 12:59:01PM::[QUERY] requesting_address: ('127.0.0.1', 57666), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.2738988399505615s
+DEBUG::12/14/2023 12:59:06PM::[QUERY] requesting_address: ('127.0.0.1', 57666), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2621011734008789s
+DEBUG::12/14/2023 12:59:11PM::[QUERY] requesting_address: ('127.0.0.1', 57666), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.33384060859680176s
+DEBUG::12/14/2023 12:59:13PM::[CLOSED CONNECTION] ('127.0.0.1', 57666) disconnected
+DEBUG::12/14/2023 12:59:18PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:05:28PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:05:28PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:05:34PM::[NEW CONNECTION] ('127.0.0.1', 57668) connected
+DEBUG::12/14/2023 01:05:34PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:05:46PM::[QUERY] requesting_address: ('127.0.0.1', 57668), query_string: 14;0;6;26;0;13;3;0;
+, query_result: STRING EXISTS
+, execution_time: 0.006778240203857422s
+DEBUG::12/14/2023 01:06:00PM::[QUERY] requesting_address: ('127.0.0.1', 57668), query_string: 14;0;6;26;0;13;3;0
+, query_result: STRING NOT FOUND
+, execution_time: 0.12337088584899902s
+DEBUG::12/14/2023 01:06:11PM::[QUERY] requesting_address: ('127.0.0.1', 57668), query_string: 14;0;6;26;0;13;3;0;
+, query_result: STRING EXISTS
+, execution_time: 0.009397268295288086s
+DEBUG::12/14/2023 01:06:15PM::[QUERY] requesting_address: ('127.0.0.1', 57668), query_string: 14;0;6;26;0;13;3
+, query_result: STRING NOT FOUND
+, execution_time: 0.11061501502990723s
+DEBUG::12/14/2023 01:06:24PM::[QUERY] requesting_address: ('127.0.0.1', 57668), query_string: 14;0;6;26;0;13;3;0;
+, query_result: STRING EXISTS
+, execution_time: 0.008403778076171875s
+DEBUG::12/14/2023 01:06:32PM::[QUERY] requesting_address: ('127.0.0.1', 57668), query_string: 14;0;6;26;
+, query_result: STRING NOT FOUND
+, execution_time: 0.1978604793548584s
+DEBUG::12/14/2023 01:06:48PM::[CLOSED CONNECTION] ('127.0.0.1', 57668) disconnected
+DEBUG::12/14/2023 01:06:51PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:08:54PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:08:54PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:08:58PM::[NEW CONNECTION] ('127.0.0.1', 57670) connected
+DEBUG::12/14/2023 01:08:58PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:09:01PM::[QUERY] requesting_address: ('127.0.0.1', 57670), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17321181297302246s
+DEBUG::12/14/2023 01:09:18PM::[QUERY] requesting_address: ('127.0.0.1', 57670), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.14912772178649902s
+DEBUG::12/14/2023 01:09:29PM::[QUERY] requesting_address: ('127.0.0.1', 57670), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16406965255737305s
+DEBUG::12/14/2023 01:09:36PM::[QUERY] requesting_address: ('127.0.0.1', 57670), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.18817687034606934s
+DEBUG::12/14/2023 01:09:43PM::[QUERY] requesting_address: ('127.0.0.1', 57670), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2072768211364746s
+DEBUG::12/14/2023 01:09:53PM::[QUERY] requesting_address: ('127.0.0.1', 57670), query_string: 14;0;6, query_result: STRING NOT FOUND
+, execution_time: 0.18740177154541016s
+DEBUG::12/14/2023 01:10:05PM::[CLOSED CONNECTION] ('127.0.0.1', 57670) disconnected
+DEBUG::12/14/2023 01:10:08PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:14:23PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:14:23PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:14:41PM::[NEW CONNECTION] ('127.0.0.1', 57672) connected
+DEBUG::12/14/2023 01:14:41PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:14:43PM::[QUERY] requesting_address: ('127.0.0.1', 57672), query_string: 14;0;6;26;0;13;3;0;
+, query_result: STRING EXISTS
+, execution_time: 0.010901212692260742s
+DEBUG::12/14/2023 01:14:51PM::[QUERY] requesting_address: ('127.0.0.1', 57672), query_string: 14;0;6;26;0;13;3;0
+, query_result: STRING NOT FOUND
+, execution_time: 0.11867237091064453s
+DEBUG::12/14/2023 01:14:58PM::[QUERY] requesting_address: ('127.0.0.1', 57672), query_string: 14;0;6;26;0;13;3;0;
+, query_result: STRING EXISTS
+, execution_time: 0.005347013473510742s
+DEBUG::12/14/2023 01:15:05PM::[QUERY] requesting_address: ('127.0.0.1', 57672), query_string: 14;0;6;26;0;13;3;
+, query_result: STRING NOT FOUND
+, execution_time: 0.12451696395874023s
+DEBUG::12/14/2023 01:15:24PM::[CLOSED CONNECTION] ('127.0.0.1', 57672) disconnected
+DEBUG::12/14/2023 01:15:26PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:25:07PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:25:07PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:25:16PM::[NEW CONNECTION] ('127.0.0.1', 57674) connected
+DEBUG::12/14/2023 01:25:16PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:25:23PM::[CLOSED CONNECTION] ('127.0.0.1', 57674) disconnected
+DEBUG::12/14/2023 01:25:36PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:26:05PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:26:05PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:26:11PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:26:11PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:26:17PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:26:17PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:26:21PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:26:21PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:26:33PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:26:33PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:26:54PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:26:54PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:27:01PM::[NEW CONNECTION] ('127.0.0.1', 57676) connected
+DEBUG::12/14/2023 01:27:01PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:27:04PM::[QUERY] requesting_address: ('127.0.0.1', 57676), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2149033546447754s
+DEBUG::12/14/2023 01:27:15PM::[QUERY] requesting_address: ('127.0.0.1', 57676), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.27620673179626465s
+DEBUG::12/14/2023 01:27:33PM::[QUERY] requesting_address: ('127.0.0.1', 57676), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17060232162475586s
+DEBUG::12/14/2023 01:27:38PM::[QUERY] requesting_address: ('127.0.0.1', 57676), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.19540953636169434s
+DEBUG::12/14/2023 01:27:42PM::[QUERY] requesting_address: ('127.0.0.1', 57676), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.21965718269348145s
+DEBUG::12/14/2023 01:27:47PM::[CLOSED CONNECTION] ('127.0.0.1', 57676) disconnected
+DEBUG::12/14/2023 01:27:51PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:34:43PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:34:43PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:34:56PM::[NEW CONNECTION] ('127.0.0.1', 57678) connected
+DEBUG::12/14/2023 01:34:56PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:35:01PM::[QUERY] requesting_address: ('127.0.0.1', 57678), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18871665000915527s
+DEBUG::12/14/2023 01:35:09PM::[CLOSED CONNECTION] ('127.0.0.1', 57678) disconnected
+DEBUG::12/14/2023 01:36:08PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:36:53PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:36:53PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:37:13PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:37:13PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:37:17PM::[NEW CONNECTION] ('127.0.0.1', 57680) connected
+DEBUG::12/14/2023 01:37:17PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:37:20PM::[QUERY] requesting_address: ('127.0.0.1', 57680), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.207780122756958s
+DEBUG::12/14/2023 01:37:38PM::[QUERY] requesting_address: ('127.0.0.1', 57680), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17921161651611328s
+DEBUG::12/14/2023 01:37:44PM::[QUERY] requesting_address: ('127.0.0.1', 57680), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.27747011184692383s
+DEBUG::12/14/2023 01:38:22PM::[QUERY] requesting_address: ('127.0.0.1', 57680), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.18110108375549316s
+DEBUG::12/14/2023 01:38:26PM::[QUERY] requesting_address: ('127.0.0.1', 57680), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.23162293434143066s
+DEBUG::12/14/2023 01:38:28PM::[CLOSED CONNECTION] ('127.0.0.1', 57680) disconnected
+DEBUG::12/14/2023 01:38:33PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:41:33PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:41:33PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:41:36PM::[NEW CONNECTION] ('127.0.0.1', 57682) connected
+DEBUG::12/14/2023 01:41:37PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:41:40PM::[QUERY] requesting_address: ('127.0.0.1', 57682), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19170737266540527s
+DEBUG::12/14/2023 01:41:45PM::[QUERY] requesting_address: ('127.0.0.1', 57682), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16243791580200195s
+DEBUG::12/14/2023 01:41:48PM::[QUERY] requesting_address: ('127.0.0.1', 57682), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16631412506103516s
+DEBUG::12/14/2023 01:41:54PM::[QUERY] requesting_address: ('127.0.0.1', 57682), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17984604835510254s
+DEBUG::12/14/2023 01:42:02PM::[CLOSED CONNECTION] ('127.0.0.1', 57682) disconnected
+DEBUG::12/14/2023 01:42:06PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:49:46PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:49:46PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:49:50PM::[NEW CONNECTION] ('127.0.0.1', 57684) connected
+DEBUG::12/14/2023 01:49:50PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:49:54PM::[QUERY] requesting_address: ('127.0.0.1', 57684), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20651817321777344s
+DEBUG::12/14/2023 01:50:05PM::[QUERY] requesting_address: ('127.0.0.1', 57684), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.23069167137145996s
+DEBUG::12/14/2023 01:50:22PM::[QUERY] requesting_address: ('127.0.0.1', 57684), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20258069038391113s
+DEBUG::12/14/2023 01:50:26PM::[QUERY] requesting_address: ('127.0.0.1', 57684), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.25525879859924316s
+DEBUG::12/14/2023 01:50:31PM::[CLOSED CONNECTION] ('127.0.0.1', 57684) disconnected
+DEBUG::12/14/2023 01:50:33PM::[CLOSED] server is closed
+DEBUG::12/14/2023 01:51:16PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 01:51:16PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 01:51:19PM::[NEW CONNECTION] ('127.0.0.1', 57686) connected
+DEBUG::12/14/2023 01:51:19PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 01:51:23PM::[QUERY] requesting_address: ('127.0.0.1', 57686), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.28931117057800293s
+DEBUG::12/14/2023 01:51:28PM::[QUERY] requesting_address: ('127.0.0.1', 57686), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.2017381191253662s
+DEBUG::12/14/2023 01:51:30PM::[QUERY] requesting_address: ('127.0.0.1', 57686), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19429278373718262s
+DEBUG::12/14/2023 01:51:33PM::[QUERY] requesting_address: ('127.0.0.1', 57686), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.20982003211975098s
+DEBUG::12/14/2023 01:51:35PM::[QUERY] requesting_address: ('127.0.0.1', 57686), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2172856330871582s
+DEBUG::12/14/2023 01:51:42PM::[QUERY] requesting_address: ('127.0.0.1', 57686), query_string: 14;0;6;26;0;13;3;, query_result: STRING NOT FOUND
+, execution_time: 0.19747066497802734s
+DEBUG::12/14/2023 01:51:44PM::[QUERY] requesting_address: ('127.0.0.1', 57686), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.21064233779907227s
+DEBUG::12/14/2023 01:51:47PM::[CLOSED CONNECTION] ('127.0.0.1', 57686) disconnected
+DEBUG::12/14/2023 01:51:50PM::[CLOSED] server is closed
+DEBUG::12/14/2023 02:28:05PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 02:28:05PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 02:28:18PM::[NEW CONNECTION] ('127.0.0.1', 57688) connected
+DEBUG::12/14/2023 02:28:18PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 02:28:23PM::[QUERY] requesting_address: ('127.0.0.1', 57688), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19185829162597656s
+DEBUG::12/14/2023 02:28:27PM::[QUERY] requesting_address: ('127.0.0.1', 57688), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16240549087524414s
+DEBUG::12/14/2023 02:28:30PM::[QUERY] requesting_address: ('127.0.0.1', 57688), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17291021347045898s
+DEBUG::12/14/2023 02:28:33PM::[QUERY] requesting_address: ('127.0.0.1', 57688), query_string: 14;0;6;26;0;13;3, query_result: STRING NOT FOUND
+, execution_time: 0.18491888046264648s
+DEBUG::12/14/2023 02:28:38PM::[CLOSED CONNECTION] ('127.0.0.1', 57688) disconnected
+DEBUG::12/14/2023 02:28:43PM::[CLOSED] server is closed
+DEBUG::12/14/2023 02:53:02PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 02:53:02PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 02:53:10PM::[NEW CONNECTION] ('127.0.0.1', 57690) connected
+DEBUG::12/14/2023 02:53:10PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 02:53:13PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3936769962310791s
+DEBUG::12/14/2023 02:53:20PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.179931640625s
+DEBUG::12/14/2023 02:53:23PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19412612915039062s
+DEBUG::12/14/2023 02:53:28PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2039628028869629s
+DEBUG::12/14/2023 02:53:30PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.25545430183410645s
+DEBUG::12/14/2023 02:53:31PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2413945198059082s
+DEBUG::12/14/2023 02:53:33PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.24743342399597168s
+DEBUG::12/14/2023 02:53:35PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.22800087928771973s
+DEBUG::12/14/2023 02:53:37PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.25552892684936523s
+DEBUG::12/14/2023 02:53:38PM::[QUERY] requesting_address: ('127.0.0.1', 57690), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.210221529006958s
+DEBUG::12/14/2023 02:53:40PM::[CLOSED CONNECTION] ('127.0.0.1', 57690) disconnected
+DEBUG::12/14/2023 02:53:44PM::[CLOSED] server is closed
+DEBUG::12/14/2023 02:55:01PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 02:55:01PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 02:55:04PM::[NEW CONNECTION] ('127.0.0.1', 57692) connected
+DEBUG::12/14/2023 02:55:04PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 02:55:09PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.21378493309020996s
+DEBUG::12/14/2023 02:55:14PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19228744506835938s
+DEBUG::12/14/2023 02:55:19PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.32666540145874023s
+DEBUG::12/14/2023 02:55:23PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1799476146697998s
+DEBUG::12/14/2023 02:55:26PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20635509490966797s
+DEBUG::12/14/2023 02:55:33PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20377826690673828s
+DEBUG::12/14/2023 02:55:39PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.21545648574829102s
+DEBUG::12/14/2023 02:55:43PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.27318453788757324s
+DEBUG::12/14/2023 02:55:48PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2087564468383789s
+DEBUG::12/14/2023 02:55:52PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.18820929527282715s
+DEBUG::12/14/2023 02:55:57PM::[QUERY] requesting_address: ('127.0.0.1', 57692), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18742680549621582s
+DEBUG::12/14/2023 02:56:01PM::[CLOSED CONNECTION] ('127.0.0.1', 57692) disconnected
+DEBUG::12/14/2023 02:56:05PM::[CLOSED] server is closed
+DEBUG::12/14/2023 02:59:03PM::[STARTING] server is starting ...
+DEBUG::12/14/2023 02:59:03PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/14/2023 02:59:10PM::[NEW CONNECTION] ('127.0.0.1', 57694) connected
+DEBUG::12/14/2023 02:59:10PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/14/2023 02:59:16PM::[QUERY] requesting_address: ('127.0.0.1', 57694), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19045042991638184s
+DEBUG::12/14/2023 02:59:20PM::[QUERY] requesting_address: ('127.0.0.1', 57694), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.20481371879577637s
+DEBUG::12/14/2023 02:59:25PM::[QUERY] requesting_address: ('127.0.0.1', 57694), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2004084587097168s
+DEBUG::12/14/2023 02:59:29PM::[QUERY] requesting_address: ('127.0.0.1', 57694), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1976466178894043s
+DEBUG::12/14/2023 02:59:31PM::[CLOSED CONNECTION] ('127.0.0.1', 57694) disconnected
+DEBUG::12/14/2023 02:59:38PM::[CLOSED] server is closed
+DEBUG::12/15/2023 04:41:09AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 04:41:09AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 04:41:18AM::[NEW CONNECTION] ('127.0.0.1', 51802) connected
+DEBUG::12/15/2023 04:41:18AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 04:41:55AM::[QUERY] requesting_address: ('127.0.0.1', 51802), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15961456298828125s
+DEBUG::12/15/2023 04:42:07AM::[QUERY] requesting_address: ('127.0.0.1', 51802), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.18036317825317383s
+DEBUG::12/15/2023 04:42:26AM::[QUERY] requesting_address: ('127.0.0.1', 51802), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16988801956176758s
+DEBUG::12/15/2023 04:42:34AM::[QUERY] requesting_address: ('127.0.0.1', 51802), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15853333473205566s
+DEBUG::12/15/2023 04:42:46AM::[CLOSED CONNECTION] ('127.0.0.1', 51802) disconnected
+DEBUG::12/15/2023 04:42:51AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:06:03AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:06:03AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:06:12AM::[NEW CONNECTION] ('127.0.0.1', 51880) connected
+DEBUG::12/15/2023 05:06:12AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:06:25AM::[QUERY] requesting_address: ('127.0.0.1', 51880), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19789505004882812s
+DEBUG::12/15/2023 05:06:29AM::[QUERY] requesting_address: ('127.0.0.1', 51880), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.30353474617004395s
+DEBUG::12/15/2023 05:06:34AM::[QUERY] requesting_address: ('127.0.0.1', 51880), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16692280769348145s
+DEBUG::12/15/2023 05:06:37AM::[QUERY] requesting_address: ('127.0.0.1', 51880), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16301655769348145s
+DEBUG::12/15/2023 05:06:42AM::[CLOSED CONNECTION] ('127.0.0.1', 51880) disconnected
+DEBUG::12/15/2023 05:06:46AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:06:59AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:06:59AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:07:05AM::[NEW CONNECTION] ('127.0.0.1', 51882) connected
+DEBUG::12/15/2023 05:07:05AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:07:08AM::[QUERY] requesting_address: ('127.0.0.1', 51882), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.21757721900939941s
+DEBUG::12/15/2023 05:07:15AM::[QUERY] requesting_address: ('127.0.0.1', 51882), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.13799619674682617s
+DEBUG::12/15/2023 05:07:17AM::[QUERY] requesting_address: ('127.0.0.1', 51882), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16876888275146484s
+DEBUG::12/15/2023 05:07:20AM::[QUERY] requesting_address: ('127.0.0.1', 51882), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.12502408027648926s
+DEBUG::12/15/2023 05:07:23AM::[QUERY] requesting_address: ('127.0.0.1', 51882), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1462416648864746s
+DEBUG::12/15/2023 05:07:25AM::[QUERY] requesting_address: ('127.0.0.1', 51882), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17493963241577148s
+DEBUG::12/15/2023 05:07:36AM::[CLOSED CONNECTION] ('127.0.0.1', 51882) disconnected
+DEBUG::12/15/2023 05:07:40AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:07:51AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:07:51AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:07:55AM::[NEW CONNECTION] ('127.0.0.1', 51884) connected
+DEBUG::12/15/2023 05:07:55AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:07:58AM::[QUERY] requesting_address: ('127.0.0.1', 51884), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1649458408355713s
+DEBUG::12/15/2023 05:08:02AM::[QUERY] requesting_address: ('127.0.0.1', 51884), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1634657382965088s
+DEBUG::12/15/2023 05:08:05AM::[QUERY] requesting_address: ('127.0.0.1', 51884), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15775680541992188s
+DEBUG::12/15/2023 05:08:08AM::[QUERY] requesting_address: ('127.0.0.1', 51884), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17259478569030762s
+DEBUG::12/15/2023 05:08:10AM::[QUERY] requesting_address: ('127.0.0.1', 51884), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14302611351013184s
+DEBUG::12/15/2023 05:08:13AM::[QUERY] requesting_address: ('127.0.0.1', 51884), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15703678131103516s
+DEBUG::12/15/2023 05:13:19AM::[CLOSED CONNECTION] ('127.0.0.1', 51884) disconnected
+DEBUG::12/15/2023 05:13:23AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:13:44AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:13:44AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:13:48AM::[NEW CONNECTION] ('127.0.0.1', 51886) connected
+DEBUG::12/15/2023 05:13:48AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:14:05AM::[QUERY] requesting_address: ('127.0.0.1', 51886), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010921955108642578s
+DEBUG::12/15/2023 05:14:12AM::[QUERY] requesting_address: ('127.0.0.1', 51886), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.013375043869018555s
+DEBUG::12/15/2023 05:14:16AM::[QUERY] requesting_address: ('127.0.0.1', 51886), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0012133121490478516s
+DEBUG::12/15/2023 05:14:19AM::[QUERY] requesting_address: ('127.0.0.1', 51886), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.03201889991760254s
+DEBUG::12/15/2023 05:14:23AM::[QUERY] requesting_address: ('127.0.0.1', 51886), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.001537322998046875s
+DEBUG::12/15/2023 05:14:26AM::[QUERY] requesting_address: ('127.0.0.1', 51886), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.025539159774780273s
+DEBUG::12/15/2023 05:14:39AM::[CLOSED CONNECTION] ('127.0.0.1', 51886) disconnected
+DEBUG::12/15/2023 05:14:44AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:15:14AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:15:14AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:15:17AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:15:26AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:15:26AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:15:30AM::[NEW CONNECTION] ('127.0.0.1', 51888) connected
+DEBUG::12/15/2023 05:15:30AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:15:33AM::[QUERY] requesting_address: ('127.0.0.1', 51888), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010738372802734375s
+DEBUG::12/15/2023 05:15:36AM::[QUERY] requesting_address: ('127.0.0.1', 51888), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.015367746353149414s
+DEBUG::12/15/2023 05:15:38AM::[QUERY] requesting_address: ('127.0.0.1', 51888), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.001123666763305664s
+DEBUG::12/15/2023 05:15:40AM::[QUERY] requesting_address: ('127.0.0.1', 51888), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.023022890090942383s
+DEBUG::12/15/2023 05:15:43AM::[QUERY] requesting_address: ('127.0.0.1', 51888), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.001176595687866211s
+DEBUG::12/15/2023 05:15:45AM::[QUERY] requesting_address: ('127.0.0.1', 51888), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.02249765396118164s
+DEBUG::12/15/2023 05:20:52AM::[CLOSED CONNECTION] ('127.0.0.1', 51888) disconnected
+DEBUG::12/15/2023 05:20:58AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:21:18AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:21:18AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:21:22AM::[NEW CONNECTION] ('127.0.0.1', 51890) connected
+DEBUG::12/15/2023 05:21:22AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:21:25AM::[QUERY] requesting_address: ('127.0.0.1', 51890), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.23618054389953613s
+DEBUG::12/15/2023 05:21:28AM::[QUERY] requesting_address: ('127.0.0.1', 51890), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.13615798950195312s
+DEBUG::12/15/2023 05:21:30AM::[QUERY] requesting_address: ('127.0.0.1', 51890), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1556096076965332s
+DEBUG::12/15/2023 05:21:33AM::[QUERY] requesting_address: ('127.0.0.1', 51890), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16279244422912598s
+DEBUG::12/15/2023 05:21:35AM::[QUERY] requesting_address: ('127.0.0.1', 51890), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16335844993591309s
+DEBUG::12/15/2023 05:21:37AM::[QUERY] requesting_address: ('127.0.0.1', 51890), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1628727912902832s
+DEBUG::12/15/2023 05:21:43AM::[CLOSED CONNECTION] ('127.0.0.1', 51890) disconnected
+DEBUG::12/15/2023 05:21:49AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:21:55AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:21:55AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:21:59AM::[NEW CONNECTION] ('127.0.0.1', 51892) connected
+DEBUG::12/15/2023 05:21:59AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:22:01AM::[QUERY] requesting_address: ('127.0.0.1', 51892), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17436718940734863s
+DEBUG::12/15/2023 05:22:04AM::[QUERY] requesting_address: ('127.0.0.1', 51892), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.22792482376098633s
+DEBUG::12/15/2023 05:22:07AM::[CLOSED CONNECTION] ('127.0.0.1', 51892) disconnected
+DEBUG::12/15/2023 05:22:12AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:22:23AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:22:23AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:22:27AM::[NEW CONNECTION] ('127.0.0.1', 51894) connected
+DEBUG::12/15/2023 05:22:27AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:22:29AM::[QUERY] requesting_address: ('127.0.0.1', 51894), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17965483665466309s
+DEBUG::12/15/2023 05:22:32AM::[QUERY] requesting_address: ('127.0.0.1', 51894), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1855754852294922s
+DEBUG::12/15/2023 05:22:34AM::[QUERY] requesting_address: ('127.0.0.1', 51894), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19192051887512207s
+DEBUG::12/15/2023 05:22:36AM::[QUERY] requesting_address: ('127.0.0.1', 51894), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.14987826347351074s
+DEBUG::12/15/2023 05:22:38AM::[QUERY] requesting_address: ('127.0.0.1', 51894), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14930200576782227s
+DEBUG::12/15/2023 05:22:41AM::[QUERY] requesting_address: ('127.0.0.1', 51894), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.19519352912902832s
+DEBUG::12/15/2023 05:28:39AM::[CLOSED CONNECTION] ('127.0.0.1', 51894) disconnected
+DEBUG::12/15/2023 05:28:59AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:29:06AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:29:06AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:29:10AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:29:23AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:29:23AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:29:26AM::[NEW CONNECTION] ('127.0.0.1', 51900) connected
+DEBUG::12/15/2023 05:29:26AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:29:42AM::[QUERY] requesting_address: ('127.0.0.1', 51900), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0014455318450927734s
+DEBUG::12/15/2023 05:29:45AM::[QUERY] requesting_address: ('127.0.0.1', 51900), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.07525801658630371s
+DEBUG::12/15/2023 05:29:47AM::[QUERY] requesting_address: ('127.0.0.1', 51900), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0015406608581542969s
+DEBUG::12/15/2023 05:29:49AM::[QUERY] requesting_address: ('127.0.0.1', 51900), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.022399425506591797s
+DEBUG::12/15/2023 05:29:51AM::[QUERY] requesting_address: ('127.0.0.1', 51900), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010809898376464844s
+DEBUG::12/15/2023 05:29:53AM::[QUERY] requesting_address: ('127.0.0.1', 51900), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.02094101905822754s
+DEBUG::12/15/2023 05:29:58AM::[CLOSED CONNECTION] ('127.0.0.1', 51900) disconnected
+DEBUG::12/15/2023 05:30:03AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:30:07AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:30:07AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:30:10AM::[NEW CONNECTION] ('127.0.0.1', 51902) connected
+DEBUG::12/15/2023 05:30:10AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:30:14AM::[QUERY] requesting_address: ('127.0.0.1', 51902), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010960102081298828s
+DEBUG::12/15/2023 05:30:16AM::[QUERY] requesting_address: ('127.0.0.1', 51902), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.02108907699584961s
+DEBUG::12/15/2023 05:30:18AM::[QUERY] requesting_address: ('127.0.0.1', 51902), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0020961761474609375s
+DEBUG::12/15/2023 05:30:23AM::[QUERY] requesting_address: ('127.0.0.1', 51902), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.029842853546142578s
+DEBUG::12/15/2023 05:30:25AM::[QUERY] requesting_address: ('127.0.0.1', 51902), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.013108968734741211s
+DEBUG::12/15/2023 05:30:28AM::[QUERY] requesting_address: ('127.0.0.1', 51902), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.025734901428222656s
+DEBUG::12/15/2023 05:32:54AM::[CLOSED CONNECTION] ('127.0.0.1', 51902) disconnected
+DEBUG::12/15/2023 05:33:03AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:33:06AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:33:06AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:33:10AM::[NEW CONNECTION] ('127.0.0.1', 51904) connected
+DEBUG::12/15/2023 05:33:10AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:33:22AM::[QUERY] requesting_address: ('127.0.0.1', 51904), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.001279592514038086s
+DEBUG::12/15/2023 05:33:25AM::[QUERY] requesting_address: ('127.0.0.1', 51904), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.025690078735351562s
+DEBUG::12/15/2023 05:33:27AM::[QUERY] requesting_address: ('127.0.0.1', 51904), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010738372802734375s
+DEBUG::12/15/2023 05:33:29AM::[QUERY] requesting_address: ('127.0.0.1', 51904), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.023726940155029297s
+DEBUG::12/15/2023 05:33:31AM::[QUERY] requesting_address: ('127.0.0.1', 51904), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010652542114257812s
+DEBUG::12/15/2023 05:33:33AM::[QUERY] requesting_address: ('127.0.0.1', 51904), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.035822153091430664s
+DEBUG::12/15/2023 05:36:32AM::[CLOSED CONNECTION] ('127.0.0.1', 51904) disconnected
+DEBUG::12/15/2023 05:36:37AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:37:05AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:37:05AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:37:09AM::[NEW CONNECTION] ('127.0.0.1', 51906) connected
+DEBUG::12/15/2023 05:37:09AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:37:19AM::[QUERY] requesting_address: ('127.0.0.1', 51906), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1764202117919922s
+DEBUG::12/15/2023 05:37:22AM::[QUERY] requesting_address: ('127.0.0.1', 51906), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.18410038948059082s
+DEBUG::12/15/2023 05:37:24AM::[QUERY] requesting_address: ('127.0.0.1', 51906), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14061594009399414s
+DEBUG::12/15/2023 05:37:26AM::[QUERY] requesting_address: ('127.0.0.1', 51906), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.13776469230651855s
+DEBUG::12/15/2023 05:37:28AM::[QUERY] requesting_address: ('127.0.0.1', 51906), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13504791259765625s
+DEBUG::12/15/2023 05:37:30AM::[QUERY] requesting_address: ('127.0.0.1', 51906), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.14927124977111816s
+DEBUG::12/15/2023 05:42:30AM::[CLOSED CONNECTION] ('127.0.0.1', 51906) disconnected
+DEBUG::12/15/2023 05:42:36AM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:42:52AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:42:52AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:42:56AM::[NEW CONNECTION] ('127.0.0.1', 51908) connected
+DEBUG::12/15/2023 05:42:56AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:43:04AM::[QUERY] requesting_address: ('127.0.0.1', 51908), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0011737346649169922s
+DEBUG::12/15/2023 05:43:07AM::[QUERY] requesting_address: ('127.0.0.1', 51908), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.030134201049804688s
+DEBUG::12/15/2023 05:43:09AM::[QUERY] requesting_address: ('127.0.0.1', 51908), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0011148452758789062s
+DEBUG::12/15/2023 05:43:11AM::[QUERY] requesting_address: ('127.0.0.1', 51908), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.021399736404418945s
+DEBUG::12/15/2023 05:43:13AM::[QUERY] requesting_address: ('127.0.0.1', 51908), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0010724067687988281s
+DEBUG::12/15/2023 05:43:15AM::[QUERY] requesting_address: ('127.0.0.1', 51908), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.027405977249145508s
+DEBUG::12/15/2023 05:57:52AM::[CLOSED CONNECTION] ('127.0.0.1', 51908) disconnected
+DEBUG::12/15/2023 05:57:59AM::[CLOSED] server is closed
+DEBUG::12/15/2023 06:00:20AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 06:00:20AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 06:00:48AM::[NEW CONNECTION] ('127.0.0.1', 51938) connected
+DEBUG::12/15/2023 06:00:48AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 06:00:55AM::[QUERY] requesting_address: ('127.0.0.1', 51938), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.521641731262207s
+DEBUG::12/15/2023 06:01:20AM::[QUERY] requesting_address: ('127.0.0.1', 51938), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.2720634937286377s
+DEBUG::12/15/2023 06:01:25AM::[QUERY] requesting_address: ('127.0.0.1', 51938), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.25946760177612305s
+DEBUG::12/15/2023 06:01:32AM::[QUERY] requesting_address: ('127.0.0.1', 51938), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.3817598819732666s
+DEBUG::12/15/2023 06:01:37AM::[QUERY] requesting_address: ('127.0.0.1', 51938), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.49018073081970215s
+DEBUG::12/15/2023 06:01:41AM::[CLOSED CONNECTION] ('127.0.0.1', 51938) disconnected
+DEBUG::12/15/2023 06:01:52AM::[CLOSED] server is closed
+DEBUG::12/15/2023 06:05:31AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 06:05:31AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 06:05:37AM::[NEW CONNECTION] ('127.0.0.1', 51942) connected
+DEBUG::12/15/2023 06:05:37AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 06:05:41AM::[QUERY] requesting_address: ('127.0.0.1', 51942), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.25202512741088867s
+DEBUG::12/15/2023 06:05:45AM::[QUERY] requesting_address: ('127.0.0.1', 51942), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1474287509918213s
+DEBUG::12/15/2023 06:05:52AM::[QUERY] requesting_address: ('127.0.0.1', 51942), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1789689064025879s
+DEBUG::12/15/2023 06:06:00AM::[QUERY] requesting_address: ('127.0.0.1', 51942), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15488576889038086s
+DEBUG::12/15/2023 06:06:17AM::[QUERY] requesting_address: ('127.0.0.1', 51942), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16148781776428223s
+DEBUG::12/15/2023 06:06:21AM::[CLOSED CONNECTION] ('127.0.0.1', 51942) disconnected
+DEBUG::12/15/2023 06:06:27AM::[CLOSED] server is closed
+DEBUG::12/15/2023 06:37:16AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 06:37:16AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 06:37:27AM::[NEW CONNECTION] ('127.0.0.1', 51990) connected
+DEBUG::12/15/2023 06:37:28AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 06:38:06AM::[QUERY] requesting_address: ('127.0.0.1', 51990), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 1.6164798736572266s
+DEBUG::12/15/2023 06:38:11AM::[QUERY] requesting_address: ('127.0.0.1', 51990), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18814373016357422s
+DEBUG::12/15/2023 06:38:16AM::[QUERY] requesting_address: ('127.0.0.1', 51990), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.22501254081726074s
+DEBUG::12/15/2023 06:38:19AM::[QUERY] requesting_address: ('127.0.0.1', 51990), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1647491455078125s
+DEBUG::12/15/2023 06:38:37AM::[CLOSED CONNECTION] ('127.0.0.1', 51990) disconnected
+DEBUG::12/15/2023 06:38:44AM::[CLOSED] server is closed
+DEBUG::12/15/2023 06:38:49AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 06:38:49AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 06:38:52AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 06:38:52AM::[NEW CONNECTION] ('127.0.0.1', 51992) connected
+DEBUG::12/15/2023 06:38:55AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14952802658081055s
+DEBUG::12/15/2023 06:39:01AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19025325775146484s
+DEBUG::12/15/2023 06:39:03AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13295388221740723s
+DEBUG::12/15/2023 06:39:05AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14607834815979004s
+DEBUG::12/15/2023 06:39:06AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.12160229682922363s
+DEBUG::12/15/2023 06:39:08AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.12844228744506836s
+DEBUG::12/15/2023 06:39:09AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18090415000915527s
+DEBUG::12/15/2023 06:39:11AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18641161918640137s
+DEBUG::12/15/2023 06:39:12AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16688799858093262s
+DEBUG::12/15/2023 06:39:13AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1492910385131836s
+DEBUG::12/15/2023 06:39:15AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15409302711486816s
+DEBUG::12/15/2023 06:39:16AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13799166679382324s
+DEBUG::12/15/2023 06:39:18AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14824748039245605s
+DEBUG::12/15/2023 06:39:19AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13160419464111328s
+DEBUG::12/15/2023 06:39:20AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13240933418273926s
+DEBUG::12/15/2023 06:39:22AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.12494945526123047s
+DEBUG::12/15/2023 06:39:24AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.2307424545288086s
+DEBUG::12/15/2023 06:39:25AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.15503668785095215s
+DEBUG::12/15/2023 06:39:27AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1498279571533203s
+DEBUG::12/15/2023 06:39:28AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.14936614036560059s
+DEBUG::12/15/2023 06:39:29AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1780245304107666s
+DEBUG::12/15/2023 06:39:30AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.15344834327697754s
+DEBUG::12/15/2023 06:39:32AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.15651941299438477s
+DEBUG::12/15/2023 06:39:33AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.13527917861938477s
+DEBUG::12/15/2023 06:39:34AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.09337162971496582s
+DEBUG::12/15/2023 06:39:35AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1394972801208496s
+DEBUG::12/15/2023 06:39:41AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1693408489227295s
+DEBUG::12/15/2023 06:39:42AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.13898110389709473s
+DEBUG::12/15/2023 06:39:43AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1433391571044922s
+DEBUG::12/15/2023 06:39:44AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.14546608924865723s
+DEBUG::12/15/2023 06:39:45AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1352555751800537s
+DEBUG::12/15/2023 06:39:46AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: k, query_result: STRING NOT FOUND
+, execution_time: 0.12445735931396484s
+DEBUG::12/15/2023 06:39:47AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: j, query_result: STRING NOT FOUND
+, execution_time: 0.14977192878723145s
+DEBUG::12/15/2023 06:39:48AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: h, query_result: STRING NOT FOUND
+, execution_time: 0.13042140007019043s
+DEBUG::12/15/2023 06:39:50AM::[QUERY] requesting_address: ('127.0.0.1', 51992), query_string: 9, query_result: STRING NOT FOUND
+, execution_time: 0.13660287857055664s
+DEBUG::12/15/2023 06:39:52AM::[CLOSED CONNECTION] ('127.0.0.1', 51992) disconnected
+DEBUG::12/15/2023 06:39:59AM::[CLOSED] server is closed
+DEBUG::12/15/2023 09:19:01AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 09:19:01AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 09:19:22AM::[NEW CONNECTION] ('127.0.0.1', 52014) connected
+DEBUG::12/15/2023 09:19:22AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 09:19:26AM::[QUERY] requesting_address: ('127.0.0.1', 52014), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1998581886291504s
+DEBUG::12/15/2023 09:19:34AM::[CLOSED CONNECTION] ('127.0.0.1', 52014) disconnected
+DEBUG::12/15/2023 09:19:38AM::[CLOSED] server is closed
+DEBUG::12/15/2023 09:19:57AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 09:19:57AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 09:20:01AM::[NEW CONNECTION] ('127.0.0.1', 52016) connected
+DEBUG::12/15/2023 09:20:01AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 09:20:04AM::[QUERY] requesting_address: ('127.0.0.1', 52016), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13881921768188477s
+DEBUG::12/15/2023 09:20:13AM::[QUERY] requesting_address: ('127.0.0.1', 52016), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.12200212478637695s
+DEBUG::12/15/2023 09:20:23AM::[QUERY] requesting_address: ('127.0.0.1', 52016), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1474003791809082s
+DEBUG::12/15/2023 09:20:27AM::[QUERY] requesting_address: ('127.0.0.1', 52016), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15291857719421387s
+DEBUG::12/15/2023 09:20:30AM::[QUERY] requesting_address: ('127.0.0.1', 52016), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1773090362548828s
+DEBUG::12/15/2023 09:20:33AM::[QUERY] requesting_address: ('127.0.0.1', 52016), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15256643295288086s
+DEBUG::12/15/2023 09:21:31AM::[CLOSED CONNECTION] ('127.0.0.1', 52016) disconnected
+DEBUG::12/15/2023 09:21:36AM::[CLOSED] server is closed
+DEBUG::12/15/2023 09:21:40AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 09:21:40AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 09:21:44AM::[NEW CONNECTION] ('127.0.0.1', 52018) connected
+DEBUG::12/15/2023 09:21:44AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 09:21:49AM::[QUERY] requesting_address: ('127.0.0.1', 52018), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1385190486907959s
+DEBUG::12/15/2023 09:21:51AM::[QUERY] requesting_address: ('127.0.0.1', 52018), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17138934135437012s
+DEBUG::12/15/2023 09:21:53AM::[QUERY] requesting_address: ('127.0.0.1', 52018), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.12619829177856445s
+DEBUG::12/15/2023 09:21:55AM::[QUERY] requesting_address: ('127.0.0.1', 52018), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17161321640014648s
+DEBUG::12/15/2023 09:21:56AM::[QUERY] requesting_address: ('127.0.0.1', 52018), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20313668251037598s
+DEBUG::12/15/2023 09:21:58AM::[QUERY] requesting_address: ('127.0.0.1', 52018), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16996407508850098s
+DEBUG::12/15/2023 09:22:00AM::[CLOSED CONNECTION] ('127.0.0.1', 52018) disconnected
+DEBUG::12/15/2023 09:22:06AM::[CLOSED] server is closed
+DEBUG::12/15/2023 09:22:09AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 09:22:09AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 09:22:12AM::[NEW CONNECTION] ('127.0.0.1', 52020) connected
+DEBUG::12/15/2023 09:22:12AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 09:22:15AM::[QUERY] requesting_address: ('127.0.0.1', 52020), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15941619873046875s
+DEBUG::12/15/2023 09:22:17AM::[QUERY] requesting_address: ('127.0.0.1', 52020), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.142242431640625s
+DEBUG::12/15/2023 09:22:19AM::[QUERY] requesting_address: ('127.0.0.1', 52020), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16346311569213867s
+DEBUG::12/15/2023 09:22:21AM::[QUERY] requesting_address: ('127.0.0.1', 52020), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.182145357131958s
+DEBUG::12/15/2023 09:22:23AM::[QUERY] requesting_address: ('127.0.0.1', 52020), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2092735767364502s
+DEBUG::12/15/2023 09:22:25AM::[QUERY] requesting_address: ('127.0.0.1', 52020), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.14507579803466797s
+DEBUG::12/15/2023 09:22:27AM::[CLOSED CONNECTION] ('127.0.0.1', 52020) disconnected
+DEBUG::12/15/2023 09:22:34AM::[CLOSED] server is closed
+DEBUG::12/15/2023 09:26:03AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 09:26:03AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 09:26:07AM::[NEW CONNECTION] ('127.0.0.1', 52022) connected
+DEBUG::12/15/2023 09:26:07AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 09:26:12AM::[QUERY] requesting_address: ('127.0.0.1', 52022), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2791612148284912s
+DEBUG::12/15/2023 09:26:14AM::[QUERY] requesting_address: ('127.0.0.1', 52022), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16133666038513184s
+DEBUG::12/15/2023 09:26:16AM::[QUERY] requesting_address: ('127.0.0.1', 52022), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3028750419616699s
+DEBUG::12/15/2023 09:26:18AM::[QUERY] requesting_address: ('127.0.0.1', 52022), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.36809372901916504s
+DEBUG::12/15/2023 09:26:22AM::[QUERY] requesting_address: ('127.0.0.1', 52022), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.32457971572875977s
+DEBUG::12/15/2023 09:26:24AM::[QUERY] requesting_address: ('127.0.0.1', 52022), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.18792080879211426s
+DEBUG::12/15/2023 09:26:32AM::[CLOSED CONNECTION] ('127.0.0.1', 52022) disconnected
+DEBUG::12/15/2023 09:26:47AM::[CLOSED] server is closed
+DEBUG::12/15/2023 09:59:43AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 09:59:43AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 09:59:52AM::[NEW CONNECTION] ('127.0.0.1', 50396) connected
+DEBUG::12/15/2023 09:59:52AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 10:00:10AM::[QUERY] requesting_address: ('127.0.0.1', 50396), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14371967315673828s
+DEBUG::12/15/2023 10:00:16AM::[QUERY] requesting_address: ('127.0.0.1', 50396), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1554851531982422s
+DEBUG::12/15/2023 10:00:19AM::[QUERY] requesting_address: ('127.0.0.1', 50396), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14894962310791016s
+DEBUG::12/15/2023 10:00:23AM::[QUERY] requesting_address: ('127.0.0.1', 50396), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.14565753936767578s
+DEBUG::12/15/2023 10:00:25AM::[QUERY] requesting_address: ('127.0.0.1', 50396), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15415334701538086s
+DEBUG::12/15/2023 10:00:30AM::[QUERY] requesting_address: ('127.0.0.1', 50396), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.167252779006958s
+DEBUG::12/15/2023 10:01:01AM::[CLOSED CONNECTION] ('127.0.0.1', 50396) disconnected
+DEBUG::12/15/2023 10:01:11AM::[CLOSED] server is closed
+DEBUG::12/15/2023 10:01:16AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 10:01:16AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 10:01:20AM::[NEW CONNECTION] ('127.0.0.1', 50398) connected
+DEBUG::12/15/2023 10:01:20AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 10:01:23AM::[QUERY] requesting_address: ('127.0.0.1', 50398), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16068553924560547s
+DEBUG::12/15/2023 10:01:26AM::[QUERY] requesting_address: ('127.0.0.1', 50398), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15711188316345215s
+DEBUG::12/15/2023 10:01:28AM::[QUERY] requesting_address: ('127.0.0.1', 50398), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1811237335205078s
+DEBUG::12/15/2023 10:01:30AM::[QUERY] requesting_address: ('127.0.0.1', 50398), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15770745277404785s
+DEBUG::12/15/2023 10:01:32AM::[QUERY] requesting_address: ('127.0.0.1', 50398), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18022871017456055s
+DEBUG::12/15/2023 10:01:35AM::[QUERY] requesting_address: ('127.0.0.1', 50398), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.24504303932189941s
+DEBUG::12/15/2023 10:01:49AM::[CLOSED CONNECTION] ('127.0.0.1', 50398) disconnected
+DEBUG::12/15/2023 10:01:54AM::[CLOSED] server is closed
+DEBUG::12/15/2023 10:02:06AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 10:02:06AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 10:02:12AM::[NEW CONNECTION] ('127.0.0.1', 50400) connected
+DEBUG::12/15/2023 10:02:12AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 10:02:17AM::[QUERY] requesting_address: ('127.0.0.1', 50400), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15251946449279785s
+DEBUG::12/15/2023 10:02:20AM::[QUERY] requesting_address: ('127.0.0.1', 50400), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1557459831237793s
+DEBUG::12/15/2023 10:02:23AM::[QUERY] requesting_address: ('127.0.0.1', 50400), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18744683265686035s
+DEBUG::12/15/2023 10:02:25AM::[QUERY] requesting_address: ('127.0.0.1', 50400), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15317273139953613s
+DEBUG::12/15/2023 10:02:27AM::[QUERY] requesting_address: ('127.0.0.1', 50400), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16774678230285645s
+DEBUG::12/15/2023 10:02:30AM::[QUERY] requesting_address: ('127.0.0.1', 50400), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1573474407196045s
+DEBUG::12/15/2023 10:02:39AM::[CLOSED CONNECTION] ('127.0.0.1', 50400) disconnected
+DEBUG::12/15/2023 10:02:44AM::[CLOSED] server is closed
+DEBUG::12/15/2023 10:02:49AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 10:02:49AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 10:02:52AM::[NEW CONNECTION] ('127.0.0.1', 50402) connected
+DEBUG::12/15/2023 10:02:52AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 10:02:54AM::[QUERY] requesting_address: ('127.0.0.1', 50402), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14271259307861328s
+DEBUG::12/15/2023 10:02:57AM::[QUERY] requesting_address: ('127.0.0.1', 50402), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.13898825645446777s
+DEBUG::12/15/2023 10:02:59AM::[QUERY] requesting_address: ('127.0.0.1', 50402), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14377140998840332s
+DEBUG::12/15/2023 10:03:01AM::[QUERY] requesting_address: ('127.0.0.1', 50402), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15907692909240723s
+DEBUG::12/15/2023 10:03:03AM::[QUERY] requesting_address: ('127.0.0.1', 50402), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14626526832580566s
+DEBUG::12/15/2023 10:03:06AM::[QUERY] requesting_address: ('127.0.0.1', 50402), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1310741901397705s
+DEBUG::12/15/2023 10:13:28AM::[CLOSED CONNECTION] ('127.0.0.1', 50402) disconnected
+DEBUG::12/15/2023 10:13:34AM::[CLOSED] server is closed
+DEBUG::12/15/2023 10:14:00AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 10:14:00AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 10:14:03AM::[NEW CONNECTION] ('127.0.0.1', 50404) connected
+DEBUG::12/15/2023 10:14:03AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 10:14:06AM::[QUERY] requesting_address: ('127.0.0.1', 50404), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0002627372741699219s
+DEBUG::12/15/2023 10:14:11AM::[QUERY] requesting_address: ('127.0.0.1', 50404), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.00014543533325195312s
+DEBUG::12/15/2023 10:14:14AM::[QUERY] requesting_address: ('127.0.0.1', 50404), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.00028777122497558594s
+DEBUG::12/15/2023 10:14:18AM::[QUERY] requesting_address: ('127.0.0.1', 50404), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.0001575946807861328s
+DEBUG::12/15/2023 10:14:22AM::[QUERY] requesting_address: ('127.0.0.1', 50404), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.00020837783813476562s
+DEBUG::12/15/2023 10:14:24AM::[QUERY] requesting_address: ('127.0.0.1', 50404), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.0002319812774658203s
+DEBUG::12/15/2023 10:19:27AM::[CLOSED CONNECTION] ('127.0.0.1', 50404) disconnected
+DEBUG::12/15/2023 10:19:35AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:24:48AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:24:48AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:24:58AM::[NEW CONNECTION] ('127.0.0.1', 50406) connected
+DEBUG::12/15/2023 11:24:58AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:25:34AM::[QUERY] requesting_address: ('127.0.0.1', 50406), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1497044563293457s
+DEBUG::12/15/2023 11:25:38AM::[QUERY] requesting_address: ('127.0.0.1', 50406), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17825675010681152s
+DEBUG::12/15/2023 11:25:41AM::[QUERY] requesting_address: ('127.0.0.1', 50406), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16124296188354492s
+DEBUG::12/15/2023 11:25:43AM::[QUERY] requesting_address: ('127.0.0.1', 50406), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.14609861373901367s
+DEBUG::12/15/2023 11:25:46AM::[QUERY] requesting_address: ('127.0.0.1', 50406), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20216012001037598s
+DEBUG::12/15/2023 11:25:48AM::[QUERY] requesting_address: ('127.0.0.1', 50406), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17648792266845703s
+DEBUG::12/15/2023 11:26:18AM::[CLOSED CONNECTION] ('127.0.0.1', 50406) disconnected
+DEBUG::12/15/2023 11:26:25AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:26:30AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:26:30AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:26:33AM::[NEW CONNECTION] ('127.0.0.1', 50408) connected
+DEBUG::12/15/2023 11:26:33AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:26:35AM::[QUERY] requesting_address: ('127.0.0.1', 50408), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17795419692993164s
+DEBUG::12/15/2023 11:26:38AM::[QUERY] requesting_address: ('127.0.0.1', 50408), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16825294494628906s
+DEBUG::12/15/2023 11:26:40AM::[QUERY] requesting_address: ('127.0.0.1', 50408), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18169116973876953s
+DEBUG::12/15/2023 11:26:42AM::[QUERY] requesting_address: ('127.0.0.1', 50408), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17228412628173828s
+DEBUG::12/15/2023 11:26:44AM::[QUERY] requesting_address: ('127.0.0.1', 50408), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15326809883117676s
+DEBUG::12/15/2023 11:26:46AM::[QUERY] requesting_address: ('127.0.0.1', 50408), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15628886222839355s
+DEBUG::12/15/2023 11:27:08AM::[CLOSED CONNECTION] ('127.0.0.1', 50408) disconnected
+DEBUG::12/15/2023 11:27:12AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:27:17AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:27:17AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:27:20AM::[NEW CONNECTION] ('127.0.0.1', 50410) connected
+DEBUG::12/15/2023 11:27:20AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:27:23AM::[QUERY] requesting_address: ('127.0.0.1', 50410), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15457487106323242s
+DEBUG::12/15/2023 11:27:26AM::[QUERY] requesting_address: ('127.0.0.1', 50410), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17466473579406738s
+DEBUG::12/15/2023 11:27:28AM::[QUERY] requesting_address: ('127.0.0.1', 50410), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18621039390563965s
+DEBUG::12/15/2023 11:27:32AM::[QUERY] requesting_address: ('127.0.0.1', 50410), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.15999197959899902s
+DEBUG::12/15/2023 11:27:34AM::[QUERY] requesting_address: ('127.0.0.1', 50410), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15737247467041016s
+DEBUG::12/15/2023 11:27:36AM::[QUERY] requesting_address: ('127.0.0.1', 50410), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15763545036315918s
+DEBUG::12/15/2023 11:28:04AM::[CLOSED CONNECTION] ('127.0.0.1', 50410) disconnected
+DEBUG::12/15/2023 11:28:08AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:28:12AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:28:12AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:28:15AM::[NEW CONNECTION] ('127.0.0.1', 50412) connected
+DEBUG::12/15/2023 11:28:15AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:28:18AM::[QUERY] requesting_address: ('127.0.0.1', 50412), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1732161045074463s
+DEBUG::12/15/2023 11:28:20AM::[QUERY] requesting_address: ('127.0.0.1', 50412), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16556572914123535s
+DEBUG::12/15/2023 11:28:22AM::[QUERY] requesting_address: ('127.0.0.1', 50412), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14951205253601074s
+DEBUG::12/15/2023 11:28:25AM::[QUERY] requesting_address: ('127.0.0.1', 50412), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17063641548156738s
+DEBUG::12/15/2023 11:28:27AM::[QUERY] requesting_address: ('127.0.0.1', 50412), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16370081901550293s
+DEBUG::12/15/2023 11:28:31AM::[QUERY] requesting_address: ('127.0.0.1', 50412), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.15350961685180664s
+DEBUG::12/15/2023 11:29:26AM::[CLOSED CONNECTION] ('127.0.0.1', 50412) disconnected
+DEBUG::12/15/2023 11:29:29AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:29:32AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:29:32AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:29:35AM::[NEW CONNECTION] ('127.0.0.1', 50414) connected
+DEBUG::12/15/2023 11:29:35AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:29:38AM::[QUERY] requesting_address: ('127.0.0.1', 50414), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.22075843811035156s
+DEBUG::12/15/2023 11:29:40AM::[CLOSED CONNECTION] ('127.0.0.1', 50414) disconnected
+DEBUG::12/15/2023 11:29:45AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:29:48AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:29:48AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:29:51AM::[NEW CONNECTION] ('127.0.0.1', 50416) connected
+DEBUG::12/15/2023 11:29:51AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:29:54AM::[QUERY] requesting_address: ('127.0.0.1', 50416), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1832740306854248s
+DEBUG::12/15/2023 11:29:56AM::[QUERY] requesting_address: ('127.0.0.1', 50416), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16532158851623535s
+DEBUG::12/15/2023 11:29:58AM::[QUERY] requesting_address: ('127.0.0.1', 50416), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1794900894165039s
+DEBUG::12/15/2023 11:30:00AM::[QUERY] requesting_address: ('127.0.0.1', 50416), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.28393006324768066s
+DEBUG::12/15/2023 11:30:04AM::[CLOSED CONNECTION] ('127.0.0.1', 50416) disconnected
+DEBUG::12/15/2023 11:30:15AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:30:20AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:30:20AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:30:22AM::[NEW CONNECTION] ('127.0.0.1', 50418) connected
+DEBUG::12/15/2023 11:30:22AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:30:25AM::[QUERY] requesting_address: ('127.0.0.1', 50418), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16411566734313965s
+DEBUG::12/15/2023 11:30:28AM::[QUERY] requesting_address: ('127.0.0.1', 50418), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15662264823913574s
+DEBUG::12/15/2023 11:30:31AM::[QUERY] requesting_address: ('127.0.0.1', 50418), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1778240203857422s
+DEBUG::12/15/2023 11:30:35AM::[QUERY] requesting_address: ('127.0.0.1', 50418), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1778719425201416s
+DEBUG::12/15/2023 11:30:37AM::[QUERY] requesting_address: ('127.0.0.1', 50418), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.18047213554382324s
+DEBUG::12/15/2023 11:30:40AM::[QUERY] requesting_address: ('127.0.0.1', 50418), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.15565705299377441s
+DEBUG::12/15/2023 11:31:45AM::[CLOSED CONNECTION] ('127.0.0.1', 50418) disconnected
+DEBUG::12/15/2023 11:31:49AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:31:53AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:31:53AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:31:56AM::[NEW CONNECTION] ('127.0.0.1', 50420) connected
+DEBUG::12/15/2023 11:31:56AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:32:06AM::[QUERY] requesting_address: ('127.0.0.1', 50420), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15721869468688965s
+DEBUG::12/15/2023 11:32:10AM::[QUERY] requesting_address: ('127.0.0.1', 50420), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16777777671813965s
+DEBUG::12/15/2023 11:32:13AM::[QUERY] requesting_address: ('127.0.0.1', 50420), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1706409454345703s
+DEBUG::12/15/2023 11:32:16AM::[QUERY] requesting_address: ('127.0.0.1', 50420), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15200567245483398s
+DEBUG::12/15/2023 11:32:19AM::[QUERY] requesting_address: ('127.0.0.1', 50420), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15813064575195312s
+DEBUG::12/15/2023 11:32:22AM::[QUERY] requesting_address: ('127.0.0.1', 50420), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.27930521965026855s
+DEBUG::12/15/2023 11:32:30AM::[CLOSED CONNECTION] ('127.0.0.1', 50420) disconnected
+DEBUG::12/15/2023 11:32:37AM::[CLOSED] server is closed
+DEBUG::12/15/2023 11:32:41AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:32:41AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:32:44AM::[NEW CONNECTION] ('127.0.0.1', 50422) connected
+DEBUG::12/15/2023 11:32:44AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:32:48AM::[QUERY] requesting_address: ('127.0.0.1', 50422), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18293404579162598s
+DEBUG::12/15/2023 11:32:51AM::[QUERY] requesting_address: ('127.0.0.1', 50422), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.17358613014221191s
+DEBUG::12/15/2023 11:32:52AM::[QUERY] requesting_address: ('127.0.0.1', 50422), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17737603187561035s
+DEBUG::12/15/2023 11:32:54AM::[QUERY] requesting_address: ('127.0.0.1', 50422), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.2004852294921875s
+                    DEBUG::12/15/2023 11:57:33AM::[STARTING] server is starting ...
+DEBUG::12/15/2023 11:57:33AM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 11:57:40AM::[NEW CONNECTION] ('127.0.0.1', 59046) connected
+DEBUG::12/15/2023 11:57:40AM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 11:57:44AM::[QUERY] requesting_address: ('127.0.0.1', 59046), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15609502792358398s
+DEBUG::12/15/2023 11:57:48AM::[QUERY] requesting_address: ('127.0.0.1', 59046), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1446981430053711s
+DEBUG::12/15/2023 11:57:50AM::[QUERY] requesting_address: ('127.0.0.1', 59046), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17238545417785645s
+DEBUG::12/15/2023 11:57:53AM::[QUERY] requesting_address: ('127.0.0.1', 59046), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.16554760932922363s
+DEBUG::12/15/2023 11:57:55AM::[QUERY] requesting_address: ('127.0.0.1', 59046), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15298724174499512s
+DEBUG::12/15/2023 11:57:57AM::[QUERY] requesting_address: ('127.0.0.1', 59046), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.15002918243408203s
+DEBUG::12/15/2023 12:05:38PM::[CLOSED CONNECTION] ('127.0.0.1', 59046) disconnected
+DEBUG::12/15/2023 12:05:41PM::[CLOSED] server is closed
+DEBUG::12/15/2023 12:07:17PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 12:07:17PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 12:07:20PM::[NEW CONNECTION] ('127.0.0.1', 59048) connected
+DEBUG::12/15/2023 12:07:20PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 12:07:33PM::[QUERY] requesting_address: ('127.0.0.1', 59048), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0002715587615966797s
+DEBUG::12/15/2023 12:07:36PM::[QUERY] requesting_address: ('127.0.0.1', 59048), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.00021576881408691406s
+DEBUG::12/15/2023 12:07:38PM::[QUERY] requesting_address: ('127.0.0.1', 59048), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.000179290771484375s
+DEBUG::12/15/2023 12:07:40PM::[QUERY] requesting_address: ('127.0.0.1', 59048), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.0001938343048095703s
+DEBUG::12/15/2023 12:07:42PM::[QUERY] requesting_address: ('127.0.0.1', 59048), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.00022554397583007812s
+DEBUG::12/15/2023 12:07:48PM::[QUERY] requesting_address: ('127.0.0.1', 59048), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.0002162456512451172s
+DEBUG::12/15/2023 12:22:05PM::[CLOSED CONNECTION] ('127.0.0.1', 59048) disconnected
+DEBUG::12/15/2023 12:22:09PM::[CLOSED] server is closed
+DEBUG::12/15/2023 12:45:28PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 12:45:28PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 12:45:36PM::[NEW CONNECTION] ('127.0.0.1', 59050) connected
+DEBUG::12/15/2023 12:45:36PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 12:45:48PM::[QUERY] requesting_address: ('127.0.0.1', 59050), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16674065589904785s
+DEBUG::12/15/2023 12:45:55PM::[QUERY] requesting_address: ('127.0.0.1', 59050), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1263415813446045s
+DEBUG::12/15/2023 12:45:58PM::[QUERY] requesting_address: ('127.0.0.1', 59050), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14299726486206055s
+DEBUG::12/15/2023 12:46:02PM::[QUERY] requesting_address: ('127.0.0.1', 59050), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.154402494430542s
+DEBUG::12/15/2023 12:46:05PM::[QUERY] requesting_address: ('127.0.0.1', 59050), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.155379056930542s
+DEBUG::12/15/2023 12:46:08PM::[QUERY] requesting_address: ('127.0.0.1', 59050), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.13169503211975098s
+DEBUG::12/15/2023 12:46:56PM::[CLOSED CONNECTION] ('127.0.0.1', 59050) disconnected
+DEBUG::12/15/2023 12:47:02PM::[CLOSED] server is closed
+DEBUG::12/15/2023 12:47:34PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 12:47:34PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 12:47:37PM::[NEW CONNECTION] ('127.0.0.1', 59052) connected
+DEBUG::12/15/2023 12:47:37PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 12:47:40PM::[QUERY] requesting_address: ('127.0.0.1', 59052), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.001346588134765625s
+DEBUG::12/15/2023 12:47:45PM::[QUERY] requesting_address: ('127.0.0.1', 59052), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.02274322509765625s
+DEBUG::12/15/2023 12:47:48PM::[QUERY] requesting_address: ('127.0.0.1', 59052), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0014309883117675781s
+DEBUG::12/15/2023 12:47:50PM::[QUERY] requesting_address: ('127.0.0.1', 59052), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.020540237426757812s
+DEBUG::12/15/2023 12:47:53PM::[QUERY] requesting_address: ('127.0.0.1', 59052), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.0016674995422363281s
+DEBUG::12/15/2023 12:47:55PM::[QUERY] requesting_address: ('127.0.0.1', 59052), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.026886701583862305s
+DEBUG::12/15/2023 12:47:58PM::[CLOSED CONNECTION] ('127.0.0.1', 59052) disconnected
+DEBUG::12/15/2023 12:48:04PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 12:48:04PM::[CLOSED] server is closed
+DEBUG::12/15/2023 12:48:21PM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:06:46PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:06:46PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:06:54PM::[NEW CONNECTION] ('127.0.0.1', 43042) connected
+DEBUG::12/15/2023 05:06:54PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:06:57PM::[QUERY] requesting_address: ('127.0.0.1', 43042), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17974233627319336s
+DEBUG::12/15/2023 05:07:06PM::[QUERY] requesting_address: ('127.0.0.1', 43042), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.12602782249450684s
+DEBUG::12/15/2023 05:07:11PM::[QUERY] requesting_address: ('127.0.0.1', 43042), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.14906001091003418s
+DEBUG::12/15/2023 05:07:37PM::[QUERY] requesting_address: ('127.0.0.1', 43042), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13236737251281738s
+DEBUG::12/15/2023 05:07:43PM::[QUERY] requesting_address: ('127.0.0.1', 43042), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.3351762294769287s
+DEBUG::12/15/2023 05:07:50PM::[CLOSED CONNECTION] ('127.0.0.1', 43042) disconnected
+DEBUG::12/15/2023 05:07:55PM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:08:07PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:08:07PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:08:16PM::[NEW CONNECTION] ('127.0.0.1', 43044) connected
+DEBUG::12/15/2023 05:08:16PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:08:19PM::[QUERY] requesting_address: ('127.0.0.1', 43044), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1394197940826416s
+DEBUG::12/15/2023 05:08:25PM::[QUERY] requesting_address: ('127.0.0.1', 43044), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.13933086395263672s
+DEBUG::12/15/2023 05:08:28PM::[QUERY] requesting_address: ('127.0.0.1', 43044), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.15923857688903809s
+DEBUG::12/15/2023 05:08:31PM::[QUERY] requesting_address: ('127.0.0.1', 43044), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.12937498092651367s
+DEBUG::12/15/2023 05:08:57PM::[CLOSED CONNECTION] ('127.0.0.1', 43044) disconnected
+DEBUG::12/15/2023 05:09:01PM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:11:04PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:11:04PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:11:10PM::[NEW CONNECTION] ('127.0.0.1', 43064) connected
+DEBUG::12/15/2023 05:11:10PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:11:27PM::[QUERY] requesting_address: ('127.0.0.1', 43064), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.13811087608337402s
+DEBUG::12/15/2023 05:11:30PM::[QUERY] requesting_address: ('127.0.0.1', 43064), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1478581428527832s
+DEBUG::12/15/2023 05:11:33PM::[QUERY] requesting_address: ('127.0.0.1', 43064), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1510019302368164s
+DEBUG::12/15/2023 05:11:38PM::[QUERY] requesting_address: ('127.0.0.1', 43064), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.1476445198059082s
+DEBUG::12/15/2023 05:11:41PM::[CLOSED CONNECTION] ('127.0.0.1', 43064) disconnected
+DEBUG::12/15/2023 05:11:44PM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:14:44PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:14:44PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:15:00PM::[NEW CONNECTION] ('127.0.0.1', 43076) connected
+DEBUG::12/15/2023 05:15:00PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:15:03PM::[QUERY] requesting_address: ('127.0.0.1', 43076), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16997599601745605s
+DEBUG::12/15/2023 05:15:06PM::[QUERY] requesting_address: ('127.0.0.1', 43076), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.21608686447143555s
+DEBUG::12/15/2023 05:15:08PM::[QUERY] requesting_address: ('127.0.0.1', 43076), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1716625690460205s
+DEBUG::12/15/2023 05:15:11PM::[QUERY] requesting_address: ('127.0.0.1', 43076), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.17294979095458984s
+DEBUG::12/15/2023 05:15:13PM::[QUERY] requesting_address: ('127.0.0.1', 43076), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19779086112976074s
+DEBUG::12/15/2023 05:15:21PM::[CLOSED CONNECTION] ('127.0.0.1', 43076) disconnected
+DEBUG::12/15/2023 05:15:27PM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:16:37PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:16:37PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:16:41PM::[NEW CONNECTION] ('127.0.0.1', 43086) connected
+DEBUG::12/15/2023 05:16:41PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:16:52PM::[QUERY] requesting_address: ('127.0.0.1', 43086), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1630558967590332s
+DEBUG::12/15/2023 05:17:02PM::[QUERY] requesting_address: ('127.0.0.1', 43086), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.19014573097229004s
+DEBUG::12/15/2023 05:17:04PM::[CLOSED CONNECTION] ('127.0.0.1', 43086) disconnected
+DEBUG::12/15/2023 05:17:07PM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:18:35PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:18:35PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:18:39PM::[NEW CONNECTION] ('127.0.0.1', 43096) connected
+DEBUG::12/15/2023 05:18:39PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:18:53PM::[QUERY] requesting_address: ('127.0.0.1', 43096), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 9.059906005859375e-06s
+DEBUG::12/15/2023 05:19:03PM::[QUERY] requesting_address: ('127.0.0.1', 43096), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 7.62939453125e-06s
+DEBUG::12/15/2023 05:19:05PM::[QUERY] requesting_address: ('127.0.0.1', 43096), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 1.0013580322265625e-05s
+DEBUG::12/15/2023 05:19:14PM::[QUERY] requesting_address: ('127.0.0.1', 43096), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 1.0013580322265625e-05s
+DEBUG::12/15/2023 05:19:28PM::[QUERY] requesting_address: ('127.0.0.1', 43096), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 7.62939453125e-06s
+DEBUG::12/15/2023 05:19:44PM::[CLOSED CONNECTION] ('127.0.0.1', 43096) disconnected
+DEBUG::12/15/2023 05:19:48PM::[CLOSED] server is closed
+DEBUG::12/15/2023 05:20:24PM::[STARTING] server is starting ...
+DEBUG::12/15/2023 05:20:24PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/15/2023 05:20:27PM::[NEW CONNECTION] ('127.0.0.1', 43104) connected
+DEBUG::12/15/2023 05:20:27PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/15/2023 05:20:30PM::[QUERY] requesting_address: ('127.0.0.1', 43104), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.20377659797668457s
+DEBUG::12/15/2023 05:20:40PM::[QUERY] requesting_address: ('127.0.0.1', 43104), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.21764755249023438s
+DEBUG::12/15/2023 05:20:43PM::[QUERY] requesting_address: ('127.0.0.1', 43104), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.18339133262634277s
+DEBUG::12/15/2023 05:20:45PM::[CLOSED CONNECTION] ('127.0.0.1', 43104) disconnected
+DEBUG::12/15/2023 05:20:48PM::[CLOSED] server is closed
+DEBUG::12/18/2023 01:54:14PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 01:54:14PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 01:54:45PM::[NEW CONNECTION] ('127.0.0.1', 47258) connected
+DEBUG::12/18/2023 01:54:45PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 01:54:51PM::[QUERY] requesting_address: ('127.0.0.1', 47258), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16373896598815918s
+DEBUG::12/18/2023 01:54:57PM::[QUERY] requesting_address: ('127.0.0.1', 47258), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.14916229248046875s
+DEBUG::12/18/2023 01:55:00PM::[QUERY] requesting_address: ('127.0.0.1', 47258), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16903972625732422s
+DEBUG::12/18/2023 01:55:04PM::[QUERY] requesting_address: ('127.0.0.1', 47258), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.20137524604797363s
+DEBUG::12/18/2023 01:55:17PM::[CLOSED CONNECTION] ('127.0.0.1', 47258) disconnected
+DEBUG::12/18/2023 01:55:21PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:15:16PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:15:16PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:15:22PM::[NEW CONNECTION] ('127.0.0.1', 47290) connected
+DEBUG::12/18/2023 02:15:22PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:15:27PM::[QUERY] requesting_address: ('127.0.0.1', 47290), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2734091281890869s
+DEBUG::12/18/2023 02:15:33PM::[QUERY] requesting_address: ('127.0.0.1', 47290), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.25573015213012695s
+DEBUG::12/18/2023 02:15:36PM::[QUERY] requesting_address: ('127.0.0.1', 47290), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.26761960983276367s
+DEBUG::12/18/2023 02:15:40PM::[QUERY] requesting_address: ('127.0.0.1', 47290), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.22017121315002441s
+DEBUG::12/18/2023 02:15:44PM::[QUERY] requesting_address: ('127.0.0.1', 47290), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.2262115478515625s
+DEBUG::12/18/2023 02:15:46PM::[QUERY] requesting_address: ('127.0.0.1', 47290), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.2760598659515381s
+DEBUG::12/18/2023 02:15:50PM::[CLOSED CONNECTION] ('127.0.0.1', 47290) disconnected
+DEBUG::12/18/2023 02:15:54PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:16:16PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:16:16PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:16:19PM::[NEW CONNECTION] ('127.0.0.1', 47296) connected
+DEBUG::12/18/2023 02:16:19PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:16:22PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19427800178527832s
+DEBUG::12/18/2023 02:16:26PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.22257757186889648s
+DEBUG::12/18/2023 02:16:28PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.24141454696655273s
+DEBUG::12/18/2023 02:16:31PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.21708059310913086s
+DEBUG::12/18/2023 02:16:33PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1794440746307373s
+DEBUG::12/18/2023 02:16:36PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.2159576416015625s
+DEBUG::12/18/2023 02:16:38PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.19146251678466797s
+DEBUG::12/18/2023 02:16:41PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.19814229011535645s
+DEBUG::12/18/2023 02:16:44PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.17159795761108398s
+DEBUG::12/18/2023 02:16:46PM::[QUERY] requesting_address: ('127.0.0.1', 47296), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.16872501373291016s
+DEBUG::12/18/2023 02:16:51PM::[CLOSED CONNECTION] ('127.0.0.1', 47296) disconnected
+DEBUG::12/18/2023 02:16:55PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:22:27PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:22:27PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:22:31PM::[NEW CONNECTION] ('127.0.0.1', 47330) connected
+DEBUG::12/18/2023 02:22:31PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:22:34PM::[QUERY] requesting_address: ('127.0.0.1', 47330), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING NOT FOUND
+, execution_time: 0.003911256790161133s
+DEBUG::12/18/2023 02:22:54PM::[QUERY] requesting_address: ('127.0.0.1', 47330), query_string: 14;0;6;26;0;13;3;0;\n, query_result: STRING NOT FOUND
+, execution_time: 0.00048065185546875s
+DEBUG::12/18/2023 02:23:02PM::[CLOSED CONNECTION] ('127.0.0.1', 47330) disconnected
+DEBUG::12/18/2023 02:23:07PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:28:48PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:28:48PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:28:52PM::[NEW CONNECTION] ('127.0.0.1', 47368) connected
+DEBUG::12/18/2023 02:28:52PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:28:57PM::[QUERY] requesting_address: ('127.0.0.1', 47368), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.4666001796722412s
+DEBUG::12/18/2023 02:29:10PM::[QUERY] requesting_address: ('127.0.0.1', 47368), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.5710241794586182s
+DEBUG::12/18/2023 02:29:55PM::[QUERY] requesting_address: ('127.0.0.1', 47368), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3940567970275879s
+DEBUG::12/18/2023 02:30:00PM::[QUERY] requesting_address: ('127.0.0.1', 47368), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.3514111042022705s
+DEBUG::12/18/2023 02:30:04PM::[QUERY] requesting_address: ('127.0.0.1', 47368), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3491675853729248s
+DEBUG::12/18/2023 02:30:12PM::[CLOSED CONNECTION] ('127.0.0.1', 47368) disconnected
+DEBUG::12/18/2023 02:30:16PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:30:41PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:30:41PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:30:46PM::[NEW CONNECTION] ('127.0.0.1', 47376) connected
+DEBUG::12/18/2023 02:30:46PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:30:50PM::[QUERY] requesting_address: ('127.0.0.1', 47376), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3606255054473877s
+DEBUG::12/18/2023 02:30:55PM::[QUERY] requesting_address: ('127.0.0.1', 47376), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.34450531005859375s
+DEBUG::12/18/2023 02:30:59PM::[QUERY] requesting_address: ('127.0.0.1', 47376), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3678274154663086s
+DEBUG::12/18/2023 02:31:04PM::[QUERY] requesting_address: ('127.0.0.1', 47376), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.35242795944213867s
+DEBUG::12/18/2023 02:31:07PM::[QUERY] requesting_address: ('127.0.0.1', 47376), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3976266384124756s
+DEBUG::12/18/2023 02:31:09PM::[CLOSED CONNECTION] ('127.0.0.1', 47376) disconnected
+DEBUG::12/18/2023 02:31:13PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:32:22PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:32:22PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:32:27PM::[NEW CONNECTION] ('127.0.0.1', 47386) connected
+DEBUG::12/18/2023 02:32:27PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:32:33PM::[QUERY] requesting_address: ('127.0.0.1', 47386), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.4496734142303467s
+DEBUG::12/18/2023 02:32:36PM::[QUERY] requesting_address: ('127.0.0.1', 47386), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.383059024810791s
+DEBUG::12/18/2023 02:32:39PM::[QUERY] requesting_address: ('127.0.0.1', 47386), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.34679269790649414s
+DEBUG::12/18/2023 02:32:47PM::[QUERY] requesting_address: ('127.0.0.1', 47386), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.36484241485595703s
+DEBUG::12/18/2023 02:32:51PM::[QUERY] requesting_address: ('127.0.0.1', 47386), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.36728835105895996s
+DEBUG::12/18/2023 02:33:20PM::[CLOSED CONNECTION] ('127.0.0.1', 47386) disconnected
+DEBUG::12/18/2023 02:33:24PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:37:09PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:37:09PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:37:20PM::[NEW CONNECTION] ('127.0.0.1', 47400) connected
+DEBUG::12/18/2023 02:37:20PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:37:24PM::[QUERY] requesting_address: ('127.0.0.1', 47400), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING NOT FOUND
+, execution_time: 0.488353967666626s
+DEBUG::12/18/2023 02:37:27PM::[QUERY] requesting_address: ('127.0.0.1', 47400), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.459195613861084s
+DEBUG::12/18/2023 02:37:31PM::[QUERY] requesting_address: ('127.0.0.1', 47400), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING NOT FOUND
+, execution_time: 0.4594697952270508s
+DEBUG::12/18/2023 02:37:43PM::[CLOSED CONNECTION] ('127.0.0.1', 47400) disconnected
+DEBUG::12/18/2023 02:37:46PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:38:05PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:38:05PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:38:08PM::[NEW CONNECTION] ('127.0.0.1', 47404) connected
+DEBUG::12/18/2023 02:38:08PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:38:11PM::[QUERY] requesting_address: ('127.0.0.1', 47404), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.39198827743530273s
+DEBUG::12/18/2023 02:38:15PM::[QUERY] requesting_address: ('127.0.0.1', 47404), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.5060224533081055s
+DEBUG::12/18/2023 02:38:18PM::[QUERY] requesting_address: ('127.0.0.1', 47404), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.3853287696838379s
+DEBUG::12/18/2023 02:38:20PM::[CLOSED CONNECTION] ('127.0.0.1', 47404) disconnected
+DEBUG::12/18/2023 02:38:23PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:42:12PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:42:12PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:42:16PM::[NEW CONNECTION] ('127.0.0.1', 47416) connected
+DEBUG::12/18/2023 02:42:16PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:42:27PM::[QUERY] requesting_address: ('127.0.0.1', 47416), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.37900614738464355s
+DEBUG::12/18/2023 02:42:34PM::[QUERY] requesting_address: ('127.0.0.1', 47416), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.3848550319671631s
+DEBUG::12/18/2023 02:42:39PM::[QUERY] requesting_address: ('127.0.0.1', 47416), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.34273409843444824s
+DEBUG::12/18/2023 02:42:41PM::[QUERY] requesting_address: ('127.0.0.1', 47416), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.34876108169555664s
+DEBUG::12/18/2023 02:42:45PM::[CLOSED CONNECTION] ('127.0.0.1', 47416) disconnected
+DEBUG::12/18/2023 02:42:48PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:50:59PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:50:59PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:51:09PM::[NEW CONNECTION] ('127.0.0.1', 47444) connected
+DEBUG::12/18/2023 02:51:09PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 02:51:23PM::[QUERY] requesting_address: ('127.0.0.1', 47444), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING NOT FOUND
+, execution_time: 0.3634908199310303s
+DEBUG::12/18/2023 02:51:37PM::[QUERY] requesting_address: ('127.0.0.1', 47444), query_string: 14;0;6;26;0;13;3;0;\n, query_result: STRING NOT FOUND
+, execution_time: 0.41463398933410645s
+DEBUG::12/18/2023 02:52:05PM::[CLOSED CONNECTION] ('127.0.0.1', 47444) disconnected
+DEBUG::12/18/2023 02:52:09PM::[CLOSED] server is closed
+DEBUG::12/18/2023 02:54:45PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 02:54:45PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 02:54:47PM::[CLOSED] server is closed
+DEBUG::12/18/2023 03:20:41PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 03:20:41PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 03:20:46PM::[NEW CONNECTION] ('127.0.0.1', 47556) connected
+DEBUG::12/18/2023 03:20:46PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 03:21:00PM::[QUERY] requesting_address: ('127.0.0.1', 47556), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.1689760684967041s
+DEBUG::12/18/2023 03:21:14PM::[QUERY] requesting_address: ('127.0.0.1', 47556), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.16461777687072754s
+DEBUG::12/18/2023 03:21:19PM::[QUERY] requesting_address: ('127.0.0.1', 47556), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.17840075492858887s
+DEBUG::12/18/2023 03:21:22PM::[CLOSED CONNECTION] ('127.0.0.1', 47556) disconnected
+DEBUG::12/18/2023 03:21:24PM::[CLOSED] server is closed
+DEBUG::12/18/2023 03:21:38PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 03:21:38PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 03:21:41PM::[NEW CONNECTION] ('127.0.0.1', 47558) connected
+DEBUG::12/18/2023 03:21:41PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 03:21:58PM::[CLOSED CONNECTION] ('127.0.0.1', 47558) disconnected
+DEBUG::12/18/2023 03:22:02PM::[CLOSED] server is closed
+DEBUG::12/18/2023 03:23:17PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 03:23:17PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 03:23:21PM::[NEW CONNECTION] ('127.0.0.1', 47570) connected
+DEBUG::12/18/2023 03:23:21PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 03:23:26PM::[QUERY] requesting_address: ('127.0.0.1', 47570), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.022093772888183594s
+DEBUG::12/18/2023 03:23:31PM::[QUERY] requesting_address: ('127.0.0.1', 47570), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.34718918800354004s
+DEBUG::12/18/2023 03:24:20PM::[QUERY] requesting_address: ('127.0.0.1', 47570), query_string: 14;0;6;26;0;13;3;0, query_result: STRING NOT FOUND
+, execution_time: 0.1891918182373047s
+DEBUG::12/18/2023 03:24:23PM::[QUERY] requesting_address: ('127.0.0.1', 47570), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.01641702651977539s
+DEBUG::12/18/2023 03:25:43PM::[CLOSED] server is closed
+DEBUG::12/18/2023 03:25:56PM::[CLOSED CONNECTION] ('127.0.0.1', 47570) disconnected
+DEBUG::12/18/2023 03:26:51PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 03:26:51PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 03:26:55PM::[NEW CONNECTION] ('127.0.0.1', 47576) connected
+DEBUG::12/18/2023 03:26:55PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 03:26:59PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: ARNOLD, query_result: STRING NOT FOUND
+, execution_time: 0.20753955841064453s
+DEBUG::12/18/2023 03:27:09PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS
+, execution_time: 0.01589226722717285s
+DEBUG::12/18/2023 03:27:54PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: ARNOLD, query_result: STRING NOT FOUND
+, execution_time: 0.17387676239013672s
+DEBUG::12/18/2023 03:28:14PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: ARNOLD\n, query_result: STRING NOT FOUND
+, execution_time: 0.19545698165893555s
+DEBUG::12/18/2023 03:29:48PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: ARNOLD, query_result: STRING NOT FOUND
+, execution_time: 0.17969346046447754s
+DEBUG::12/18/2023 03:30:06PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS
+, execution_time: 0.006254673004150391s
+DEBUG::12/18/2023 03:30:35PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 11;0;1;16;0;12;4;0;1, query_result: STRING EXISTS
+, execution_time: 0.1767117977142334s
+DEBUG::12/18/2023 03:30:51PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: ARNOLD, query_result: STRING NOT FOUND
+, execution_time: 0.18854999542236328s
+DEBUG::12/18/2023 03:32:08PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: AR, query_result: STRING NOT FOUND
+, execution_time: 0.1632673740386963s
+DEBUG::12/18/2023 03:32:28PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 11;0;1;16;0;12;4;0;1, query_result: STRING NOT FOUND
+, execution_time: 0.1839888095855713s
+DEBUG::12/18/2023 03:32:34PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 11;0;1;16;0;12;4;0;12, query_result: STRING EXISTS
+, execution_time: 0.1777353286743164s
+DEBUG::12/18/2023 03:32:58PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 11;0;1;16;0;12;4;0;12, query_result: STRING NOT FOUND
+, execution_time: 0.15793991088867188s
+DEBUG::12/18/2023 03:33:17PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 11;0;1;16;0;12;4;0;12, query_result: STRING EXISTS
+, execution_time: 0.3121635913848877s
+DEBUG::12/18/2023 03:36:09PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 11;0;1;16;0;12;4;0;12, query_result: STRING EXISTS
+, execution_time: 0.1635875701904297s
+DEBUG::12/18/2023 03:37:39PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: 14;0;6;26;0;13;3;0;12, query_result: STRING EXISTS
+, execution_time: 0.09647512435913086s
+DEBUG::12/18/2023 03:45:28PM::[QUERY] requesting_address: ('127.0.0.1', 47576), query_string: ;, query_result: STRING NOT FOUND
+, execution_time: 0.2109668254852295s
+DEBUG::12/18/2023 03:45:35PM::[CLOSED] server is closed
+DEBUG::12/18/2023 03:45:43PM::[CLOSED CONNECTION] ('127.0.0.1', 47576) disconnected
+DEBUG::12/18/2023 03:45:57PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 03:45:57PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 03:46:01PM::[NEW CONNECTION] ('127.0.0.1', 47606) connected
+DEBUG::12/18/2023 03:46:01PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 03:46:04PM::[QUERY] requesting_address: ('127.0.0.1', 47606), query_string: 14;0;6;26;0;13;3;0;12, query_result: STRING EXISTS, execution_time: 0.12306690216064453s
+DEBUG::12/18/2023 03:46:30PM::[QUERY] requesting_address: ('127.0.0.1', 47606), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.18406271934509277s
+DEBUG::12/18/2023 03:47:06PM::[QUERY] requesting_address: ('127.0.0.1', 47606), query_string: 14;0;6;26;0;13;3;0;1, query_result: STRING NOT FOUND, execution_time: 0.185530424118042s
+DEBUG::12/18/2023 03:47:13PM::[CLOSED CONNECTION] ('127.0.0.1', 47606) disconnected
+DEBUG::12/18/2023 03:47:24PM::[CLOSED] server is closed
+DEBUG::12/18/2023 03:59:10PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 03:59:10PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 03:59:14PM::[NEW CONNECTION] ('127.0.0.1', 47630) connected
+DEBUG::12/18/2023 03:59:14PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 03:59:24PM::[QUERY] requesting_address: ('127.0.0.1', 47630), query_string: 14;0;6;26;0;13;3;0;12, query_result: STRING EXISTS, execution_time: 0.16451001167297363s
+DEBUG::12/18/2023 03:59:32PM::[QUERY] requesting_address: ('127.0.0.1', 47630), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.16214680671691895s
+DEBUG::12/18/2023 03:59:49PM::[QUERY] requesting_address: ('127.0.0.1', 47630), query_string: 14;0;6;26;0;13;3;0;1 , query_result: STRING NOT FOUND, execution_time: 0.1686077117919922s
+DEBUG::12/18/2023 03:59:57PM::[QUERY] requesting_address: ('127.0.0.1', 47630), query_string: 14;0;6;26;0;13;3;0;12, query_result: STRING EXISTS, execution_time: 0.16109728813171387s
+DEBUG::12/18/2023 04:00:21PM::[CLOSED CONNECTION] ('127.0.0.1', 47630) disconnected
+DEBUG::12/18/2023 04:00:45PM::[CLOSED] server is closed
+DEBUG::12/18/2023 04:02:10PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 04:02:10PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 04:02:13PM::[NEW CONNECTION] ('127.0.0.1', 47640) connected
+DEBUG::12/18/2023 04:02:13PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 04:02:20PM::[QUERY] requesting_address: ('127.0.0.1', 47640), query_string: 14;0;6;26;0;13;3;0;12, query_result: STRING EXISTS, execution_time: 0.14998745918273926s
+DEBUG::12/18/2023 04:02:30PM::[QUERY] requesting_address: ('127.0.0.1', 47640), query_string: 14;0;6;26;0;13;3;0;, query_result: STRING EXISTS, execution_time: 0.01506662368774414s
+DEBUG::12/18/2023 04:04:14PM::[QUERY] requesting_address: ('127.0.0.1', 47640), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.013705015182495117s
+DEBUG::12/18/2023 04:04:54PM::[QUERY] requesting_address: ('127.0.0.1', 47640), query_string: 11;0;1;16;0;12;4;0;1, query_result: STRING EXISTS, execution_time: 0.19994401931762695s
+DEBUG::12/18/2023 04:32:59PM::[CLOSED CONNECTION] ('127.0.0.1', 47640) disconnected
+DEBUG::12/18/2023 04:33:10PM::[CLOSED] server is closed
+DEBUG::12/18/2023 04:34:20PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 04:34:20PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 04:34:27PM::[NEW CONNECTION] ('127.0.0.1', 47704) connected
+DEBUG::12/18/2023 04:34:27PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 04:34:31PM::[QUERY] requesting_address: ('127.0.0.1', 47704), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0072591304779052734s
+DEBUG::12/18/2023 04:34:36PM::[QUERY] requesting_address: ('127.0.0.1', 47704), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.222639799118042s
+DEBUG::12/18/2023 04:34:40PM::[QUERY] requesting_address: ('127.0.0.1', 47704), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0034990310668945312s
+DEBUG::12/18/2023 04:34:42PM::[QUERY] requesting_address: ('127.0.0.1', 47704), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.14640569686889648s
+DEBUG::12/18/2023 04:34:48PM::[QUERY] requesting_address: ('127.0.0.1', 47704), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0032205581665039062s
+DEBUG::12/18/2023 04:34:53PM::[QUERY] requesting_address: ('127.0.0.1', 47704), query_string: blah, query_result: STRING NOT FOUND, execution_time: 0.17701983451843262s
+DEBUG::12/18/2023 04:35:42PM::[CLOSED CONNECTION] ('127.0.0.1', 47704) disconnected
+DEBUG::12/18/2023 04:35:47PM::[CLOSED] server is closed
+DEBUG::12/18/2023 04:35:50PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 04:35:50PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 04:35:52PM::[CLOSED] server is closed
+DEBUG::12/18/2023 04:35:57PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 04:35:57PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 04:36:01PM::[NEW CONNECTION] ('127.0.0.1', 47706) connected
+DEBUG::12/18/2023 04:36:01PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 04:36:04PM::[QUERY] requesting_address: ('127.0.0.1', 47706), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0034966468811035156s
+DEBUG::12/18/2023 04:36:14PM::[QUERY] requesting_address: ('127.0.0.1', 47706), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.14639997482299805s
+DEBUG::12/18/2023 04:36:18PM::[QUERY] requesting_address: ('127.0.0.1', 47706), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.003506898880004883s
+DEBUG::12/18/2023 04:36:23PM::[QUERY] requesting_address: ('127.0.0.1', 47706), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.13745903968811035s
+DEBUG::12/18/2023 04:36:26PM::[QUERY] requesting_address: ('127.0.0.1', 47706), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.004060268402099609s
+DEBUG::12/18/2023 04:36:30PM::[QUERY] requesting_address: ('127.0.0.1', 47706), query_string: blah, query_result: STRING NOT FOUND, execution_time: 0.17080426216125488s
+DEBUG::12/18/2023 04:48:59PM::[CLOSED CONNECTION] ('127.0.0.1', 47706) disconnected
+DEBUG::12/18/2023 04:49:04PM::[CLOSED] server is closed
+DEBUG::12/18/2023 04:57:58PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 04:57:58PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 04:58:04PM::[NEW CONNECTION] ('127.0.0.1', 47774) connected
+DEBUG::12/18/2023 04:58:04PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 04:59:14PM::[CLOSED CONNECTION] ('127.0.0.1', 47774) disconnected
+DEBUG::12/18/2023 04:59:34PM::[CLOSED] server is closed
+DEBUG::12/18/2023 05:01:33PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 05:01:33PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 05:01:43PM::[NEW CONNECTION] ('127.0.0.1', 47796) connected
+DEBUG::12/18/2023 05:01:43PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:02:25PM::[CLOSED CONNECTION] ('127.0.0.1', 47796) disconnected
+DEBUG::12/18/2023 05:02:29PM::[CLOSED] server is closed
+DEBUG::12/18/2023 05:02:58PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 05:02:58PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 05:03:02PM::[NEW CONNECTION] ('127.0.0.1', 47804) connected
+DEBUG::12/18/2023 05:03:02PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:03:31PM::[CLOSED CONNECTION] ('127.0.0.1', 47804) disconnected
+DEBUG::12/18/2023 05:03:37PM::[NEW CONNECTION] ('127.0.0.1', 47806) connected
+DEBUG::12/18/2023 05:03:37PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:03:41PM::[CLOSED CONNECTION] ('127.0.0.1', 47806) disconnected
+DEBUG::12/18/2023 05:06:24PM::[CLOSED] server is closed
+DEBUG::12/18/2023 05:11:53PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 05:11:53PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 05:11:58PM::[NEW CONNECTION] ('127.0.0.1', 47828) connected
+DEBUG::12/18/2023 05:11:58PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:12:02PM::[QUERY] requesting_address: ('127.0.0.1', 47828), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.00015807151794433594s
+DEBUG::12/18/2023 05:12:24PM::[QUERY] requesting_address: ('127.0.0.1', 47828), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.00018453598022460938s
+DEBUG::12/18/2023 05:12:41PM::[CLOSED CONNECTION] ('127.0.0.1', 47828) disconnected
+DEBUG::12/18/2023 05:12:44PM::[CLOSED] server is closed
+DEBUG::12/18/2023 05:13:07PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 05:13:07PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 05:13:10PM::[NEW CONNECTION] ('127.0.0.1', 47834) connected
+DEBUG::12/18/2023 05:13:10PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:13:14PM::[QUERY] requesting_address: ('127.0.0.1', 47834), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.01174473762512207s
+DEBUG::12/18/2023 05:13:22PM::[QUERY] requesting_address: ('127.0.0.1', 47834), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.5415520668029785s
+DEBUG::12/18/2023 05:13:26PM::[QUERY] requesting_address: ('127.0.0.1', 47834), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0049932003021240234s
+DEBUG::12/18/2023 05:13:31PM::[QUERY] requesting_address: ('127.0.0.1', 47834), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.5447759628295898s
+DEBUG::12/18/2023 05:13:54PM::[QUERY] requesting_address: ('127.0.0.1', 47834), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.005025148391723633s
+DEBUG::12/18/2023 05:14:02PM::[QUERY] requesting_address: ('127.0.0.1', 47834), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.6317758560180664s
+DEBUG::12/18/2023 05:14:08PM::[CLOSED CONNECTION] ('127.0.0.1', 47834) disconnected
+DEBUG::12/18/2023 05:14:11PM::[CLOSED] server is closed
+DEBUG::12/18/2023 05:14:48PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 05:14:48PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 05:14:51PM::[NEW CONNECTION] ('127.0.0.1', 47840) connected
+DEBUG::12/18/2023 05:14:51PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:14:55PM::[QUERY] requesting_address: ('127.0.0.1', 47840), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.5753343105316162s
+DEBUG::12/18/2023 05:15:06PM::[QUERY] requesting_address: ('127.0.0.1', 47840), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.5892326831817627s
+DEBUG::12/18/2023 05:15:20PM::[QUERY] requesting_address: ('127.0.0.1', 47840), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.5597076416015625s
+DEBUG::12/18/2023 05:15:37PM::[QUERY] requesting_address: ('127.0.0.1', 47840), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.5333893299102783s
+DEBUG::12/18/2023 05:15:43PM::[CLOSED CONNECTION] ('127.0.0.1', 47840) disconnected
+DEBUG::12/18/2023 05:16:06PM::[CLOSED] server is closed
+DEBUG::12/18/2023 05:16:09PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 05:16:09PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 05:16:12PM::[NEW CONNECTION] ('127.0.0.1', 47844) connected
+DEBUG::12/18/2023 05:16:12PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:17:00PM::[QUERY] requesting_address: ('127.0.0.1', 47844), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0001723766326904297s
+DEBUG::12/18/2023 05:17:23PM::[QUERY] requesting_address: ('127.0.0.1', 47844), query_string: ;, query_result: STRING NOT FOUND, execution_time: 9.942054748535156e-05s
+DEBUG::12/18/2023 05:17:54PM::[QUERY] requesting_address: ('127.0.0.1', 47844), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.000316619873046875s
+DEBUG::12/18/2023 05:18:05PM::[QUERY] requesting_address: ('127.0.0.1', 47844), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.0001456737518310547s
+DEBUG::12/18/2023 05:18:17PM::[CLOSED CONNECTION] ('127.0.0.1', 47844) disconnected
+DEBUG::12/18/2023 05:18:21PM::[CLOSED] server is closed
+DEBUG::12/18/2023 05:19:06PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 05:19:06PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 05:19:10PM::[NEW CONNECTION] ('127.0.0.1', 47846) connected
+DEBUG::12/18/2023 05:19:10PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:19:14PM::[QUERY] requesting_address: ('127.0.0.1', 47846), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.20862984657287598s
+DEBUG::12/18/2023 05:19:19PM::[QUERY] requesting_address: ('127.0.0.1', 47846), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.1946697235107422s
+DEBUG::12/18/2023 05:19:25PM::[QUERY] requesting_address: ('127.0.0.1', 47846), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.20758748054504395s
+DEBUG::12/18/2023 05:19:43PM::[QUERY] requesting_address: ('127.0.0.1', 47846), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.2060837745666504s
+DEBUG::12/18/2023 05:19:53PM::[CLOSED CONNECTION] ('127.0.0.1', 47846) disconnected
+DEBUG::12/18/2023 05:19:56PM::[CLOSED] server is closed
+DEBUG::12/18/2023 05:20:06PM::[STARTING] server is starting ...
+DEBUG::12/18/2023 05:20:06PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/18/2023 05:20:10PM::[NEW CONNECTION] ('127.0.0.1', 47848) connected
+DEBUG::12/18/2023 05:20:10PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/18/2023 05:20:13PM::[QUERY] requesting_address: ('127.0.0.1', 47848), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.003294706344604492s
+DEBUG::12/18/2023 05:20:20PM::[QUERY] requesting_address: ('127.0.0.1', 47848), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.19328951835632324s
+DEBUG::12/18/2023 05:20:24PM::[CLOSED CONNECTION] ('127.0.0.1', 47848) disconnected
+DEBUG::12/18/2023 05:20:27PM::[CLOSED] server is closed
+DEBUG::12/24/2023 01:40:07PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 01:40:07PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 01:40:18PM::[NEW CONNECTION] ('127.0.0.1', 54186) connected
+DEBUG::12/24/2023 01:40:18PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 01:40:31PM::[QUERY] requesting_address: ('127.0.0.1', 54186), query_string: 1;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.014335393905639648s
+DEBUG::12/24/2023 01:40:43PM::[QUERY] requesting_address: ('127.0.0.1', 54186), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.003945350646972656s
+DEBUG::12/24/2023 01:40:56PM::[QUERY] requesting_address: ('127.0.0.1', 54186), query_string: 1;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.14616155624389648s
+DEBUG::12/24/2023 01:41:09PM::[CLOSED CONNECTION] ('127.0.0.1', 54186) disconnected
+DEBUG::12/24/2023 01:41:14PM::[CLOSED] server is closed
+DEBUG::12/24/2023 01:42:53PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 01:42:53PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 01:42:57PM::[NEW CONNECTION] ('127.0.0.1', 54202) connected
+DEBUG::12/24/2023 01:42:57PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 01:43:08PM::[QUERY] requesting_address: ('127.0.0.1', 54202), query_string: 19;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.00353240966796875s
+DEBUG::12/24/2023 01:43:47PM::[CLOSED CONNECTION] ('127.0.0.1', 54202) disconnected
+DEBUG::12/24/2023 01:43:50PM::[NEW CONNECTION] ('127.0.0.1', 54206) connected
+DEBUG::12/24/2023 01:43:50PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 01:44:19PM::[QUERY] requesting_address: ('127.0.0.1', 54206), query_string: 19;0;1;16;0;12;4;, query_result: STRING NOT FOUND, execution_time: 0.1522667407989502s
+DEBUG::12/24/2023 01:44:35PM::[QUERY] requesting_address: ('127.0.0.1', 54206), query_string: 0;1;16;0;12;4;0;, query_result: STRING NOT FOUND, execution_time: 0.2780025005340576s
+DEBUG::12/24/2023 01:44:48PM::[QUERY] requesting_address: ('127.0.0.1', 54206), query_string: 91;0;1;16;0;12;4;0;, query_result: STRING NOT FOUND, execution_time: 0.20425105094909668s
+DEBUG::12/24/2023 01:44:56PM::[CLOSED CONNECTION] ('127.0.0.1', 54206) disconnected
+DEBUG::12/24/2023 01:44:59PM::[CLOSED] server is closed
+DEBUG::12/24/2023 02:08:16PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 02:08:16PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 02:08:27PM::[NEW CONNECTION] ('127.0.0.1', 54298) connected
+DEBUG::12/24/2023 02:08:27PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 02:09:01PM::[QUERY] requesting_address: ('127.0.0.1', 54298), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.003679990768432617s
+DEBUG::12/24/2023 02:09:13PM::[QUERY] requesting_address: ('127.0.0.1', 54298), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.1377544403076172s
+DEBUG::12/24/2023 02:09:17PM::[CLOSED CONNECTION] ('127.0.0.1', 54298) disconnected
+DEBUG::12/24/2023 02:09:20PM::[CLOSED] server is closed
+DEBUG::12/24/2023 02:09:31PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 02:09:31PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 02:09:35PM::[NEW CONNECTION] ('127.0.0.1', 54302) connected
+DEBUG::12/24/2023 02:09:35PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 02:09:38PM::[QUERY] requesting_address: ('127.0.0.1', 54302), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0781400203704834s
+DEBUG::12/24/2023 02:10:00PM::[QUERY] requesting_address: ('127.0.0.1', 54302), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.03633522987365723s
+DEBUG::12/24/2023 02:10:04PM::[QUERY] requesting_address: ('127.0.0.1', 54302), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.023145675659179688s
+DEBUG::12/24/2023 02:10:08PM::[QUERY] requesting_address: ('127.0.0.1', 54302), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.044103384017944336s
+DEBUG::12/24/2023 02:10:12PM::[QUERY] requesting_address: ('127.0.0.1', 54302), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.04801321029663086s
+DEBUG::12/24/2023 02:10:15PM::[QUERY] requesting_address: ('127.0.0.1', 54302), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.05724310874938965s
+DEBUG::12/24/2023 02:10:23PM::[CLOSED CONNECTION] ('127.0.0.1', 54302) disconnected
+DEBUG::12/24/2023 02:10:28PM::[CLOSED] server is closed
+DEBUG::12/24/2023 02:10:46PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 02:10:46PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 02:10:49PM::[NEW CONNECTION] ('127.0.0.1', 54304) connected
+DEBUG::12/24/2023 02:10:49PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 02:10:55PM::[QUERY] requesting_address: ('127.0.0.1', 54304), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.17351388931274414s
+DEBUG::12/24/2023 02:10:59PM::[QUERY] requesting_address: ('127.0.0.1', 54304), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.18552589416503906s
+DEBUG::12/24/2023 02:11:03PM::[QUERY] requesting_address: ('127.0.0.1', 54304), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.14696884155273438s
+DEBUG::12/24/2023 02:11:05PM::[QUERY] requesting_address: ('127.0.0.1', 54304), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.2620058059692383s
+DEBUG::12/24/2023 02:11:10PM::[CLOSED CONNECTION] ('127.0.0.1', 54304) disconnected
+DEBUG::12/24/2023 02:11:13PM::[CLOSED] server is closed
+DEBUG::12/24/2023 02:11:29PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 02:11:29PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 02:11:32PM::[NEW CONNECTION] ('127.0.0.1', 54306) connected
+DEBUG::12/24/2023 02:11:32PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 02:11:35PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.00034356117248535156s
+DEBUG::12/24/2023 02:11:46PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.016153335571289062s
+DEBUG::12/24/2023 02:12:00PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.00578618049621582s
+DEBUG::12/24/2023 02:12:06PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.006276845932006836s
+DEBUG::12/24/2023 02:13:19PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.000247955322265625s
+DEBUG::12/24/2023 02:13:22PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.018291711807250977s
+DEBUG::12/24/2023 02:13:32PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0003871917724609375s
+DEBUG::12/24/2023 02:13:34PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.0158536434173584s
+DEBUG::12/24/2023 02:13:37PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.01931309700012207s
+DEBUG::12/24/2023 02:13:40PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.02545785903930664s
+DEBUG::12/24/2023 02:13:43PM::[QUERY] requesting_address: ('127.0.0.1', 54306), query_string: ;, query_result: STRING NOT FOUND, execution_time: 0.02436089515686035s
+DEBUG::12/24/2023 02:17:43PM::[CLOSED CONNECTION] ('127.0.0.1', 54306) disconnected
+DEBUG::12/24/2023 02:52:07PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 02:52:07PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 02:52:14PM::[NEW CONNECTION] ('127.0.0.1', 54424) connected
+DEBUG::12/24/2023 02:52:14PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 02:52:19PM::[CLOSED CONNECTION] ('127.0.0.1', 54424) disconnected
+DEBUG::12/24/2023 02:52:28PM::[CLOSED] server is closed
+DEBUG::12/24/2023 02:52:33PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 02:52:33PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 02:52:36PM::[NEW CONNECTION] ('127.0.0.1', 54426) connected
+DEBUG::12/24/2023 02:52:37PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 02:53:32PM::[QUERY] requesting_address: ('127.0.0.1', 54426), query_string: 
+11;0;1;16;0;12;4;0;
+, query_result: STRING EXISTS, execution_time: 0.10259580612182617s
+DEBUG::12/24/2023 02:53:36PM::[QUERY] requesting_address: ('127.0.0.1', 54426), query_string: 
+11;0;1;16;0;12;4;0
+, query_result: STRING NOT FOUND, execution_time: 0.05020022392272949s
+DEBUG::12/24/2023 02:53:40PM::[QUERY] requesting_address: ('127.0.0.1', 54426), query_string: 
+11;0;1;16;0;12;4;0;
+, query_result: STRING EXISTS, execution_time: 0.023370027542114258s
+DEBUG::12/24/2023 02:53:44PM::[QUERY] requesting_address: ('127.0.0.1', 54426), query_string: 
+11;0;1;16;0;12;4;0
+, query_result: STRING NOT FOUND, execution_time: 0.42688465118408203s
+DEBUG::12/24/2023 02:53:49PM::[CLOSED CONNECTION] ('127.0.0.1', 54426) disconnected
+DEBUG::12/24/2023 02:53:55PM::[CLOSED] server is closed
+DEBUG::12/24/2023 02:54:04PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 02:54:04PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 02:54:07PM::[NEW CONNECTION] ('127.0.0.1', 54428) connected
+DEBUG::12/24/2023 02:54:07PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 02:54:10PM::[QUERY] requesting_address: ('127.0.0.1', 54428), query_string: 
+11;0;1;16;0;12;4;0;
+, query_result: STRING EXISTS, execution_time: 0.0736849308013916s
+DEBUG::12/24/2023 02:54:16PM::[QUERY] requesting_address: ('127.0.0.1', 54428), query_string: 
+11;0;1;16;0;12;4;0
+, query_result: STRING NOT FOUND, execution_time: 0.036773681640625s
+DEBUG::12/24/2023 02:54:21PM::[QUERY] requesting_address: ('127.0.0.1', 54428), query_string: 
+11;0;1;16;0;12;4;0;
+, query_result: STRING EXISTS, execution_time: 0.023159265518188477s
+DEBUG::12/24/2023 02:54:26PM::[QUERY] requesting_address: ('127.0.0.1', 54428), query_string: 
+11;0;1;16;0;12;4;0
+, query_result: STRING NOT FOUND, execution_time: 0.026952743530273438s
+DEBUG::12/24/2023 02:54:29PM::[QUERY] requesting_address: ('127.0.0.1', 54428), query_string: 
+11;0;1;16;0;12;4;0;
+, query_result: STRING EXISTS, execution_time: 0.0394289493560791s
+DEBUG::12/24/2023 02:54:33PM::[QUERY] requesting_address: ('127.0.0.1', 54428), query_string: 
+11;0;1;16;0;12;4;0
+, query_result: STRING NOT FOUND, execution_time: 0.028890132904052734s
+DEBUG::12/24/2023 02:55:14PM::[CLOSED CONNECTION] ('127.0.0.1', 54428) disconnected
+DEBUG::12/24/2023 02:55:16PM::[CLOSED] server is closed
+DEBUG::12/24/2023 03:00:01PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 03:00:01PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 03:00:11PM::[NEW CONNECTION] ('127.0.0.1', 54452) connected
+DEBUG::12/24/2023 03:00:11PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:00:17PM::[QUERY] requesting_address: ('127.0.0.1', 54452), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.4246971607208252s
+DEBUG::12/24/2023 03:00:32PM::[QUERY] requesting_address: ('127.0.0.1', 54452), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.1085972785949707s
+DEBUG::12/24/2023 03:00:45PM::[CLOSED CONNECTION] ('127.0.0.1', 54452) disconnected
+DEBUG::12/24/2023 03:00:53PM::[CLOSED] server is closed
+DEBUG::12/24/2023 03:01:01PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 03:01:01PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 03:01:05PM::[NEW CONNECTION] ('127.0.0.1', 54456) connected
+DEBUG::12/24/2023 03:01:05PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:01:08PM::[QUERY] requesting_address: ('127.0.0.1', 54456), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.16048812866210938s
+DEBUG::12/24/2023 03:01:16PM::[QUERY] requesting_address: ('127.0.0.1', 54456), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.0400235652923584s
+DEBUG::12/24/2023 03:01:23PM::[QUERY] requesting_address: ('127.0.0.1', 54456), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.025714635848999023s
+DEBUG::12/24/2023 03:01:31PM::[CLOSED CONNECTION] ('127.0.0.1', 54456) disconnected
+DEBUG::12/24/2023 03:01:36PM::[CLOSED] server is closed
+DEBUG::12/24/2023 03:01:43PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 03:01:43PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 03:01:47PM::[NEW CONNECTION] ('127.0.0.1', 54458) connected
+DEBUG::12/24/2023 03:01:47PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:01:50PM::[QUERY] requesting_address: ('127.0.0.1', 54458), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.12429571151733398s
+DEBUG::12/24/2023 03:02:03PM::[QUERY] requesting_address: ('127.0.0.1', 54458), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.054346323013305664s
+DEBUG::12/24/2023 03:02:06PM::[QUERY] requesting_address: ('127.0.0.1', 54458), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.023913860321044922s
+DEBUG::12/24/2023 03:02:09PM::[QUERY] requesting_address: ('127.0.0.1', 54458), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.08774161338806152s
+DEBUG::12/24/2023 03:02:13PM::[CLOSED CONNECTION] ('127.0.0.1', 54458) disconnected
+DEBUG::12/24/2023 03:02:17PM::[CLOSED] server is closed
+DEBUG::12/24/2023 03:02:29PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 03:02:29PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 03:02:32PM::[NEW CONNECTION] ('127.0.0.1', 54460) connected
+DEBUG::12/24/2023 03:02:32PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:02:35PM::[QUERY] requesting_address: ('127.0.0.1', 54460), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.15436291694641113s
+DEBUG::12/24/2023 03:02:38PM::[CLOSED CONNECTION] ('127.0.0.1', 54460) disconnected
+DEBUG::12/24/2023 03:02:51PM::[NEW CONNECTION] ('127.0.0.1', 54462) connected
+DEBUG::12/24/2023 03:02:51PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:02:54PM::[QUERY] requesting_address: ('127.0.0.1', 54462), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.055950164794921875s
+DEBUG::12/24/2023 03:02:58PM::[QUERY] requesting_address: ('127.0.0.1', 54462), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.09272336959838867s
+DEBUG::12/24/2023 03:03:05PM::[CLOSED CONNECTION] ('127.0.0.1', 54462) disconnected
+DEBUG::12/24/2023 03:03:11PM::[NEW CONNECTION] ('127.0.0.1', 54464) connected
+DEBUG::12/24/2023 03:03:11PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:03:15PM::[QUERY] requesting_address: ('127.0.0.1', 54464), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.31468749046325684s
+DEBUG::12/24/2023 03:03:23PM::[CLOSED CONNECTION] ('127.0.0.1', 54464) disconnected
+DEBUG::12/24/2023 03:03:27PM::[NEW CONNECTION] ('127.0.0.1', 54466) connected
+DEBUG::12/24/2023 03:03:27PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:03:34PM::[QUERY] requesting_address: ('127.0.0.1', 54466), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0995185375213623s
+DEBUG::12/24/2023 03:03:38PM::[CLOSED CONNECTION] ('127.0.0.1', 54466) disconnected
+DEBUG::12/24/2023 03:03:43PM::[NEW CONNECTION] ('127.0.0.1', 54468) connected
+DEBUG::12/24/2023 03:03:43PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:03:47PM::[QUERY] requesting_address: ('127.0.0.1', 54468), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.1656050682067871s
+DEBUG::12/24/2023 03:03:50PM::[CLOSED CONNECTION] ('127.0.0.1', 54468) disconnected
+DEBUG::12/24/2023 03:04:06PM::[CLOSED] server is closed
+DEBUG::12/24/2023 03:04:09PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 03:04:09PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 03:04:13PM::[NEW CONNECTION] ('127.0.0.1', 54472) connected
+DEBUG::12/24/2023 03:04:13PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:04:16PM::[QUERY] requesting_address: ('127.0.0.1', 54472), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.14921069145202637s
+DEBUG::12/24/2023 03:04:19PM::[CLOSED CONNECTION] ('127.0.0.1', 54472) disconnected
+DEBUG::12/24/2023 03:04:24PM::[NEW CONNECTION] ('127.0.0.1', 54474) connected
+DEBUG::12/24/2023 03:04:24PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:04:27PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.115325927734375s
+DEBUG::12/24/2023 03:04:37PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.06163287162780762s
+DEBUG::12/24/2023 03:04:41PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.024822711944580078s
+DEBUG::12/24/2023 03:04:47PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.1333937644958496s
+DEBUG::12/24/2023 03:04:53PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.06294679641723633s
+DEBUG::12/24/2023 03:04:55PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.03545951843261719s
+DEBUG::12/24/2023 03:05:12PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.034807682037353516s
+DEBUG::12/24/2023 03:05:16PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.049718618392944336s
+DEBUG::12/24/2023 03:05:21PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.037650108337402344s
+DEBUG::12/24/2023 03:05:25PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.024872303009033203s
+DEBUG::12/24/2023 03:05:33PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.02868366241455078s
+DEBUG::12/24/2023 03:05:36PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.029938459396362305s
+DEBUG::12/24/2023 03:05:40PM::[QUERY] requesting_address: ('127.0.0.1', 54474), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.026332855224609375s
+DEBUG::12/24/2023 03:10:55PM::[CLOSED CONNECTION] ('127.0.0.1', 54474) disconnected
+DEBUG::12/24/2023 03:10:59PM::[CLOSED] server is closed
+DEBUG::12/24/2023 03:11:14PM::[STARTING] server is starting ...
+DEBUG::12/24/2023 03:11:14PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::12/24/2023 03:11:17PM::[NEW CONNECTION] ('127.0.0.1', 54476) connected
+DEBUG::12/24/2023 03:11:17PM::[ACTIVE CONNECTIONS] 1
+DEBUG::12/24/2023 03:11:39PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0003540515899658203s
+DEBUG::12/24/2023 03:11:43PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.02981710433959961s
+DEBUG::12/24/2023 03:12:06PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.00029468536376953125s
+DEBUG::12/24/2023 03:12:11PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.00861978530883789s
+DEBUG::12/24/2023 03:12:20PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.00022339820861816406s
+DEBUG::12/24/2023 03:12:40PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.007083892822265625s
+DEBUG::12/24/2023 03:12:46PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.00021719932556152344s
+DEBUG::12/24/2023 03:12:49PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.009759187698364258s
+DEBUG::12/24/2023 03:12:56PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.0003097057342529297s
+DEBUG::12/24/2023 03:12:59PM::[QUERY] requesting_address: ('127.0.0.1', 54476), query_string: 11;0;1;16;0;12;4;0, query_result: STRING NOT FOUND, execution_time: 0.0058002471923828125s
+DEBUG::12/24/2023 03:18:31PM::[CLOSED CONNECTION] ('127.0.0.1', 54476) disconnected
+DEBUG::12/24/2023 03:18:33PM::[CLOSED] server is closed
+DEBUG::01/25/2024 07:03:21PM::[STARTING] server is starting ...
+DEBUG::01/25/2024 07:03:21PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::01/25/2024 07:04:23PM::[NEW CONNECTION] ('127.0.0.1', 42102) connected
+DEBUG::01/25/2024 07:04:23PM::[ACTIVE CONNECTIONS] 1
+DEBUG::01/25/2024 07:06:45PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING EXISTS, execution_time: 0.057708024978637695s
+DEBUG::01/25/2024 07:06:57PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING EXISTS, execution_time: 0.04826712608337402s
+DEBUG::01/25/2024 07:07:03PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING EXISTS, execution_time: 0.04799532890319824s
+DEBUG::01/25/2024 07:07:09PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING EXISTS, execution_time: 0.0775456428527832s
+DEBUG::01/25/2024 07:07:14PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING EXISTS, execution_time: 0.04685354232788086s
+DEBUG::01/25/2024 07:07:25PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;ab, query_result: STRING NOT FOUND, execution_time: 0.039893388748168945s
+DEBUG::01/25/2024 07:07:34PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING EXISTS, execution_time: 0.06087779998779297s
+DEBUG::01/25/2024 07:07:40PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;av, query_result: STRING NOT FOUND, execution_time: 0.03714442253112793s
+DEBUG::01/25/2024 07:07:57PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING NOT FOUND, execution_time: 0.03822660446166992s
+DEBUG::01/25/2024 07:08:02PM::[QUERY] requesting_address: ('127.0.0.1', 42102), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.01881885528564453s
+DEBUG::01/25/2024 07:08:16PM::[CLOSED CONNECTION] ('127.0.0.1', 42102) disconnected
+DEBUG::01/25/2024 07:08:24PM::[CLOSED] server is closed
+DEBUG::01/25/2024 07:08:37PM::[STARTING] server is starting ...
+DEBUG::01/25/2024 07:08:37PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::01/25/2024 07:08:45PM::[NEW CONNECTION] ('127.0.0.1', 42112) connected
+DEBUG::01/25/2024 07:08:45PM::[ACTIVE CONNECTIONS] 1
+DEBUG::01/25/2024 07:08:51PM::[QUERY] requesting_address: ('127.0.0.1', 42112), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING NOT FOUND, execution_time: 0.1279287338256836s
+DEBUG::01/25/2024 07:09:02PM::[QUERY] requesting_address: ('127.0.0.1', 42112), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.03248739242553711s
+DEBUG::01/25/2024 07:09:08PM::[QUERY] requesting_address: ('127.0.0.1', 42112), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING NOT FOUND, execution_time: 0.032948970794677734s
+DEBUG::01/25/2024 07:09:14PM::[QUERY] requesting_address: ('127.0.0.1', 42112), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.039476871490478516s
+DEBUG::01/25/2024 07:10:07PM::[CLOSED CONNECTION] ('127.0.0.1', 42112) disconnected
+DEBUG::01/25/2024 07:10:13PM::[CLOSED] server is closed
+DEBUG::01/25/2024 07:11:48PM::[STARTING] server is starting ...
+DEBUG::01/25/2024 07:11:48PM::[LISTENING] server is listening on 127.0.1.1:5050
+DEBUG::01/25/2024 07:12:05PM::[NEW CONNECTION] ('127.0.0.1', 42114) connected
+DEBUG::01/25/2024 07:12:05PM::[ACTIVE CONNECTIONS] 1
+DEBUG::01/25/2024 07:12:36PM::[QUERY] requesting_address: ('127.0.0.1', 42114), query_string: 11;0;1;16;0;12;4;0;, query_result: STRING EXISTS, execution_time: 0.04073905944824219s
+DEBUG::01/25/2024 07:12:47PM::[QUERY] requesting_address: ('127.0.0.1', 42114), query_string: 11;0;1;16;0;12;4;0;a, query_result: STRING NOT FOUND, execution_time: 0.03665518760681152s
+DEBUG::01/25/2024 07:12:56PM::[CLOSED CONNECTION] ('127.0.0.1', 42114) disconnected
+DEBUG::01/25/2024 07:13:12PM::[CLOSED] server is closed
