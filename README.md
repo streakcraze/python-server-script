@@ -1,5 +1,3 @@
-# algosciences_intro_task
-
 # Python Sockets Project
 
 This is a simple Python project that demonstrates socket communication between a server and a client. It includes a server implementation (`server.py`), a daemonized server (`daemon_server.py`), and a client (`client.py`).
